@@ -27,7 +27,7 @@ type responseBody struct {
 var Ids []string
 
 func Seed(client http.Client, jwtToken string, targetUrl string) {
-	file, err := os.Open("../data/profile.json")
+	file, err := os.Open("./data/profile.json")
 	if err != nil {
 		log.Fatal("error opening profile.json: ", err)
 	}
@@ -71,7 +71,7 @@ func Seed(client http.Client, jwtToken string, targetUrl string) {
 		}(response.Body)
 
 		if response.StatusCode != http.StatusCreated {
-			log.Fatalf("error creating profile, status code: %d", response.StatusCode)
+			log.Fatalf("error creating profile, status code: %d and username: %s", response.StatusCode, profile.Username)
 		}
 
 		var responseData responseBody

@@ -34,7 +34,7 @@ type responseBody struct {
 var Ids []string
 
 func Seed(client http.Client, jwtToken string, targetUrl string) {
-	file, err := os.Open("../data/club.json")
+	file, err := os.Open("./data/club.json")
 	if err != nil {
 		log.Fatal("error opening club.json: ", err)
 	}

@@ -1,0 +1,1938 @@
+[
+  {
+    "title":"Fußballspielen im Park",
+    "description":"Gemeinsam ein lockeres Fußballspiel im lokalen Park organisieren. Alle Niveaus willkommen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Yoga im Sonnenuntergang",
+    "description":"Eine entspannende Yoga-Sitzung im Park, um den Tag ausklingen zu lassen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "RELAX",
+      "OUTDOOR",
+      "SPORTS"
+    ]
+  },
+  {
+    "title":"Brettspiel-Abend: Siedler von Catan",
+    "description":"Gemeinsam 'Die Siedler von Catan' spielen. Snacks und Getränke werden bereitgestellt.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "BOARDGAME",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Coding Workshop für Anfänger (Python)",
+    "description":"Lerne die Grundlagen von Python. Keine Vorkenntnisse erforderlich.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Hiking-Tour durch den Nationalpark",
+    "description":"Eine mittelschwere Wanderung zu einem Aussichtspunkt mit spektakulärer Sicht.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Street Art Tour und Skizzieren",
+    "description":"Entdecke die besten Street Art Spots der Stadt und versuche dich selbst im Skizzieren.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Konzert: Lokale Jazzband",
+    "description":"Genieße einen entspannten Abend mit Live-Jazz-Musik in einer gemütlichen Bar.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Veganer Kochkurs: Asiatische Küche",
+    "description":"Lerne, wie man köstliche vegane asiatische Gerichte zubereitet.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "INDOOR",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Putzaktion am Flussufer",
+    "description":"Helfe mit, das Flussufer von Müll zu befreien und die Natur zu schützen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Mittelalterliches Bogenschießen",
+    "description":"Lerne die Grundlagen des Bogenschießens unter professioneller Anleitung im Freien.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"DIY-Keramik bemalen",
+    "description":"Wähle ein Keramikstück aus und bemale es nach deinen Vorstellungen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "INDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Wochenendtrip an die Ostsee",
+    "description":"Gemeinsame Planung eines Kurztrips mit Übernachtung und Strandspaziergängen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "TRAVEL",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"E-Sport Turnier: League of Legends",
+    "description":"Lokales Turnier für Teams und Einzelspieler. Mit kleinen Preisen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Kulturabend: Spanische Tapas",
+    "description":"Zubereitung und gemeinsames Genießen authentischer spanischer Tapas.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Mountainbike-Trail-Fahrt (Fortgeschrittene)",
+    "description":"Anspruchsvolle Tour durch die lokalen Bergregionen für erfahrene Fahrer.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "HIKING"
+    ]
+  },
+  {
+    "title":"Science-Fiction-Filmnacht-Marathon",
+    "description":"Sechs Stunden die besten Sci-Fi-Klassiker. Popcorn und Sofas vorhanden.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MOVIE",
+      "INDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Gartenarbeit für soziale Einrichtungen",
+    "description":"Helfe mit, den Gemeinschaftsgarten eines Seniorenheims auf Vordermann zu bringen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Einführung in das Zeichnen von Porträts",
+    "description":"Lerne die Proportionen des Gesichts und die Schattierungstechniken kennen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"D&D Kampagne: Drachen in der Unterstadt",
+    "description":"Beginn einer neuen Pen & Paper Roleplaying Game Kampagne.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "BOARDGAME",
+      "GAMING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Kajakfahren auf dem Fluss",
+    "description":"Eine entspannte Kajaktour auf ruhigem Gewässer. Ausrüstung wird gestellt.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Vortrag: Nachhaltigkeit im Alltag",
+    "description":"Tipps und Tricks, wie man seinen ökologischen Fußabdruck reduzieren kann.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Grill- und Lagerfeuer-Abend",
+    "description":"Gemütliches Beisammensein mit Lagerfeuer, Stockbrot und Gegrilltem.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "OUTDOOR",
+      "PARTY"
+    ]
+  },
+  {
+    "title":"Fotowalk: Architektur der Stadt",
+    "description":"Gemeinsam die besten Motive der städtischen Architektur fotografieren.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "OUTDOOR",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Entspannung: Progressive Muskelentspannung",
+    "description":"Geführte Entspannungsübung zur Reduzierung von Stress.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "RELAX",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Paintball-Action im Waldgebiet",
+    "description":"Ein spannender Tag voller Taktik und Adrenalin auf dem Outdoor-Feld.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "GAMING"
+    ]
+  },
+  {
+    "title":"Nachtwächterführung durch die Altstadt",
+    "description":"Eine historische und gruselige Führung durch die dunkelsten Ecken der Stadt.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "TRAVEL",
+      "OUTDOOR",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Reparatur-Café",
+    "description":"Repariere defekte Elektrogeräte oder Kleidung unter Anleitung.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Poetry Slam Workshop",
+    "description":"Lerne, eigene Texte zu schreiben und sie auf der Bühne zu performen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "MUSIC",
+      "LEARNING",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Escape Room: Der Pharao's Fluch",
+    "description":"Gemeinsam Rätsel lösen, um aus einem ägyptischen Grab zu entkommen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Bierbrau-Kurs für Hobbybrauer",
+    "description":"Einführung in die Grundlagen des Bierbrauens.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Kino-Preview: Deutscher Independent-Film",
+    "description":"Besuch der Vorpremiere eines neuen deutschen Films mit anschließender Diskussion.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MOVIE",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Barfuß-Wanderung",
+    "description":"Erlebe die Natur neu auf einem speziell angelegten Barfußpfad.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Schnupperkurs: Orientalischer Tanz",
+    "description":"Einführung in die Grundbewegungen und Rhythmen des Bauchtanzes.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "SPORTS",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Flohmarktstand betreiben",
+    "description":"Miete einen Stand und verkaufe gemeinsam aussortierte Kleidung und Trödel.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SOCIAL",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Tischtennis-Turnier",
+    "description":"Ein lockeres Doppel- und Einzel-Turnier im lokalen Sportzentrum.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "INDOOR",
+      "GAMING"
+    ]
+  },
+  {
+    "title":"Marmeladen und Gelees selbst machen",
+    "description":"Lerne die Konservierungstechniken und koche eigene Kreationen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Astronomie-Abend im Park",
+    "description":"Mit Teleskopen Sterne, Planeten und Galaxien beobachten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Rollenspiel-Abend: Western-Thema",
+    "description":"Ein einmaliges Abenteuer in der Welt des Wilden Westens.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "BOARDGAME",
+      "GAMING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Zumba-Fitness-Party",
+    "description":"Eine energiegeladene Tanz-Fitness-Session mit lateinamerikanischer Musik.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "MUSIC",
+      "PARTY"
+    ]
+  },
+  {
+    "title":"Müllsammeln am Strand",
+    "description":"Hilf mit, einen Abschnitt unseres Strandes von Plastikmüll zu befreien.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Aquarellmalerei für Anfänger",
+    "description":"Einführung in die Techniken und Materialien der Aquarellmalerei.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Schlittschuhlaufen auf der Eisbahn",
+    "description":"Ein paar Runden drehen und anschließend heißen Kakao trinken.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Weinprobe: Deutsche Rieslinge",
+    "description":"Verkostung verschiedener Rieslinge aus bekannten Anbaugebieten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Handlettering Workshop",
+    "description":"Lerne die Kunst des schönen Schreibens und gestalte eigene Grußkarten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Urban Exploration Tour",
+    "description":"Erkunde verlassene Orte in der Umgebung (Lost Places). Achtung: auf eigene Gefahr!",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "TRAVEL",
+      "OUTDOOR",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Karaoke-Party im Kellerclub",
+    "description":"Lass die Stimme erklingen! Ein Abend voller Spaß und Gesang.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "PARTY",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Wald-Erlebnispfad für Familien",
+    "description":"Ein geführter Spaziergang mit spannenden Aufgaben und Informationen zur Natur.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Online Gaming: Shooter-Nacht",
+    "description":"Mehrere Runden intensiver Online-Shooter-Action. Headsets erforderlich.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Cocktail-Mixkurs",
+    "description":"Lerne, klassische und moderne Cocktails professionell zu mixen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "PARTY"
+    ]
+  },
+  {
+    "title":"Meditation und Achtsamkeit",
+    "description":"Geführte Meditationssitzung zur inneren Ruhe und Konzentration.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "RELAX",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Laufgruppe: 5-km-Training",
+    "description":"Regelmäßiges Training für den nächsten 5-km-Volkslauf.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Besuch des Naturkundemuseums",
+    "description":"Erkundung der Dinosaurier-Ausstellung und der geologischen Sammlung.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "TRAVEL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Stricken und Häkeln für den Winter",
+    "description":"Gemeinsam Mützen, Schals und Socken für die kalte Jahreszeit herstellen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "RELAX",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Public Viewing: Fußball-Champions League",
+    "description":"Gemeinsames Anschauen des Finales der Champions League auf Großleinwand.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "SOCIAL",
+      "PARTY",
+      "MOVIE"
+    ]
+  },
+  {
+    "title":"Bouldern in der Halle",
+    "description":"Klettern ohne Seil in Absprunghöhe. Anfänger-Einführung verfügbar.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Bastel-Nachmittag: Upcycling-Kunst",
+    "description":"Alte Gegenstände kreativ wiederverwenden und Kunstwerke daraus schaffen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "VOLUNTEERING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Fremdsprachen-Stammtisch: Italienisch",
+    "description":"Lockere Konversation in italienischer Sprache in einem Café.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "SOCIAL",
+      "FOOD"
+    ]
+  },
+  {
+    "title":"Grusel-Film-Nacht",
+    "description":"Drei Horrorfilme hintereinander. Nur für starke Nerven!",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MOVIE",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Pilze sammeln im Herbstwald",
+    "description":"Geführte Wanderung, um essbare Pilze zu bestimmen und zu sammeln.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "FOOD"
+    ]
+  },
+  {
+    "title":"Wohnzimmer-Konzert: Akustik-Pop",
+    "description":"Ein intimes Konzert mit einem lokalen Singer-Songwriter im kleinen Rahmen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Radtour entlang des Flusses",
+    "description":"Eine ganztägige, entspannte Radtour mit Picknick-Stopp.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Töpfern an der Drehscheibe",
+    "description":"Einführungskurs in die Kunst des Töpferns an der Scheibe.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Rollerskaten/Inlineskaten im Park",
+    "description":"Gemeinsames Üben von Tricks und Fahren von Runden auf asphaltierten Wegen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "MUSIC"
+    ]
+  },
+  {
+    "title":"Sushi-Zubereitungskurs",
+    "description":"Lerne, perfekten Reis zu kochen und Maki und Nigiri zu rollen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Virtuelle Realität (VR) Gaming-Session",
+    "description":"Probiere verschiedene VR-Spiele (Beat Saber, Half-Life Alyx) im VR-Center aus.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Kirchen- oder Schlossbesichtigung",
+    "description":"Geführte Besichtigung eines historischen Bauwerks in der Nähe.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "TRAVEL",
+      "LEARNING",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Wellness-Tag: Sauna und Pool",
+    "description":"Ein Tag pure Entspannung in der lokalen Therme.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "RELAX",
+      "INDOOR",
+      "SPORTS"
+    ]
+  },
+  {
+    "title":"Mitarbeit in der Suppenküche",
+    "description":"Hilf bei der Essensausgabe für Bedürftige in der lokalen Suppenküche.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "FOOD",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Gitarren-Lern-Stunde für Anfänger",
+    "description":"Einführung in die ersten Akkorde und einfache Lieder.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Outdoor-Campen und Sterne gucken",
+    "description":"Eine Nacht im Zelt, Lagerfeuer und das Beobachten des Nachthimmels.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "OUTDOOR",
+      "RELAX",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Schach-Turnier im Café",
+    "description":"Lockeres Schachturnier in gemütlicher Atmosphäre. Kaffee und Kuchen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "BOARDGAME",
+      "SOCIAL",
+      "INDOOR",
+      "FOOD"
+    ]
+  },
+  {
+    "title":"Dokumentarfilm-Abend",
+    "description":"Anschauen eines Dokumentarfilms zu einem aktuellen Umweltthema mit Diskussion.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MOVIE",
+      "LEARNING",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Laufen: Intervall-Training",
+    "description":"Intensives Intervall-Lauftraining zur Steigerung der Ausdauer.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Malerei: Öl auf Leinwand",
+    "description":"Einführung in die Ölmalerei. Erstellen eines eigenen Landschaftsbildes.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Picknick im Botanischen Garten",
+    "description":"Gemütliches Picknick inmitten exotischer Pflanzen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Geister- und Sagenwanderung",
+    "description":"Eine schaurig-schöne Führung zu den lokalen Legenden und Spukorten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Upcycling: Möbel restaurieren",
+    "description":"Lerne, alten Möbeln neues Leben einzuhauchen (Schleifen, Lackieren, Beizen).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR",
+      "VOLUNTEERING"
+    ]
+  },
+  {
+    "title":"Afrobeat-Tanzkurs",
+    "description":"Lerne die rhythmischen und dynamischen Schritte des modernen Afrobeats.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "SPORTS",
+      "PARTY"
+    ]
+  },
+  {
+    "title":"Fahrrad-Reparatur-Werkstatt",
+    "description":"Gemeinsame Wartung und Reparatur von Fahrrädern. Werkzeug wird gestellt.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "SPORTS",
+      "VOLUNTEERING"
+    ]
+  },
+  {
+    "title":"Improvisationstheater-Workshop",
+    "description":"Übungen zur Spontaneität, Kreativität und Teamarbeit.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "SOCIAL",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Japanischer Teezeremonie-Workshop",
+    "description":"Einführung in die Ästhetik und Durchführung der traditionellen japanischen Teezeremonie.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "RELAX",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Squash-Spielen",
+    "description":"Ein lockerer Squash-Abend für alle Spielstärken im Sportcenter.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Hörbuch-Lese-Abend",
+    "description":"Gemeinsames Hören eines spannenden Hörbuchs bei Kerzenschein.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "RELAX",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Geocaching im Naturschutzgebiet",
+    "description":"Nutze GPS und Rätsel, um versteckte Caches in der Natur zu finden.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "OUTDOOR",
+      "HIKING"
+    ]
+  },
+  {
+    "title":"Lernkreis: Webentwicklung (HTML/CSS)",
+    "description":"Gemeinsames Lernen und Üben der Grundlagen der Webentwicklung.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Street Food Festival Besuch",
+    "description":"Gemeinsamer Besuch des lokalen Street Food Festivals und Probieren internationaler Gerichte.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "OUTDOOR",
+      "SOCIAL",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Lesung: Lokaler Autor",
+    "description":"Eine Lesung aus dem neuesten Roman eines regional bekannten Autors.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "ART",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Beachvolleyball im Sand",
+    "description":"Lockeres Beachvolleyball-Spiel auf dem öffentlichen Sandplatz.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Makramee-Workshop",
+    "description":"Lerne die Knoten-Techniken, um Wandbehänge oder Blumenampeln herzustellen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "RELAX",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Besuch des Zoos/Tierparks",
+    "description":"Ein entspannter Tag im Tierpark mit Fokus auf die Fütterungszeiten der Tiere.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "TRAVEL",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Pflanzen-Tauschbörse",
+    "description":"Tausche Ableger, Samen oder Zimmerpflanzen mit anderen Pflanzenliebhabern.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SOCIAL",
+      "OUTDOOR",
+      "VOLUNTEERING"
+    ]
+  },
+  {
+    "title":"Sing-Along: Musical-Klassiker",
+    "description":"Ein gemütlicher Abend, bei dem gemeinsam bekannte Musical-Songs gesungen werden.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Schneeschuhwandern in den Bergen",
+    "description":"Eine geführte Tour durch verschneite Landschaften (Ausrüstungsverleih möglich).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "SPORTS",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Debattierclub: Aktuelle Politik",
+    "description":"Offene Diskussion und Debatte über aktuelle politische Themen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Rafting oder Kanufahren auf dem Wildwasser",
+    "description":"Ein aufregendes Abenteuer auf dem Fluss (nur für Schwimmer).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Fotobuch gestalten",
+    "description":"Hilfe und Tipps zur Gestaltung eines professionellen Fotobuches mit eigenen Bildern.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Lagerfeuer-Gitarren-Session",
+    "description":"Ein Abend mit akustischer Musik, Gesang und guter Stimmung am Lagerfeuer.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "OUTDOOR",
+      "SOCIAL",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Laser-Tag-Turnier",
+    "description":"Ein Team-Wettkampf im Laser-Tag-Center. Spaß und Bewegung garantiert.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SPORTS"
+    ]
+  },
+  {
+    "title":"Eisdielen-Hopping",
+    "description":"Besuch der besten Eisdielen der Stadt und Vergleich ihrer Spezialitäten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Volksfest- oder Kirmesbesuch",
+    "description":"Gemeinsame Fahrt mit den Attraktionen und Zuckerwatte essen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "PARTY",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Ehrenamtliche Nachhilfe für Schüler",
+    "description":"Biete deine Hilfe in Fächern wie Mathematik oder Sprachen an.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Schneeballschlacht und Glühwein",
+    "description":"Ein spaßiges Winter-Event im Park mit anschließendem warmen Getränk.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Einführung in die Börsenanalyse",
+    "description":"Lerne die Grundlagen der Aktien- und Wertpapieranalyse kennen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Tanzkurs: Standardtänze (Walzer/Tango)",
+    "description":"Grundschritte und Figuren für klassische Paartänze lernen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "MUSIC",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Outdoor: Klettern am Felsen",
+    "description":"Geführte Klettertour an einem Naturfelsen (für Anfänger geeignet).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "HIKING"
+    ]
+  },
+  {
+    "title":"Kreatives Schreiben: Kurzgeschichten",
+    "description":"Workshop, um Ideen für Kurzgeschichten zu entwickeln und auszuarbeiten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Billiard- und Dart-Abend",
+    "description":"Lockere Spiele in einer Kneipe. Perfekt für einen geselligen Abend.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Kräuterwanderung und Tinkturen herstellen",
+    "description":"Bestimmung von Wildkräutern und Anfertigung von Heilmitteln.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "LEARNING",
+      "FOOD",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Maskenball/Kostümparty",
+    "description":"Eine festliche Party mit dem Thema 'Goldenes Zeitalter'.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "PARTY",
+      "SOCIAL",
+      "MUSIC"
+    ]
+  },
+  {
+    "title":"Filmstudio- oder Set-Besichtigung",
+    "description":"Ein Blick hinter die Kulissen der Film- und Fernsehproduktion.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MOVIE",
+      "TRAVEL",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Outdoor-Yoga am Seeufer",
+    "description":"Eine frühmorgendliche Yoga-Session, um mit Energie in den Tag zu starten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"T-Shirt-Siebdruck-Workshop",
+    "description":"Lerne, wie man Grafiken für den Siebdruck erstellt und eigene Shirts bedruckt.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Boule/Pétanque im Park",
+    "description":"Ein entspanntes Spiel des französischen Kugelspiels im Grünen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Fondue- oder Raclette-Abend",
+    "description":"Ein geselliger Abend mit Käse-Fondue oder Raclette im Winter.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Chorprobe: Pop- und Gospel-Songs",
+    "description":"Offene Probe für alle, die gerne singen und Teil eines Chors sein möchten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "SOCIAL",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Retro-Konsolen-Gaming-Night",
+    "description":"Spiele klassische Konsolen-Hits von Nintendo, Sega und PlayStation.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Gebrauchtkleider-Tauschparty (Swapping)",
+    "description":"Bringe deine aussortierten, aber gut erhaltenen Kleider zum Tauschen mit.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SOCIAL",
+      "VOLUNTEERING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Kürbisschnitzen für Halloween",
+    "description":"Ein kreativer Nachmittag, um gruselige oder lustige Kürbisse zu schnitzen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "PARTY",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Erste-Hilfe-Kurs: Auffrischung",
+    "description":"Wiederholung der wichtigsten Maßnahmen zur Lebensrettung.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "INDOOR",
+      "VOLUNTEERING"
+    ]
+  },
+  {
+    "title":"Lernkreis: Französische Konversation",
+    "description":"Übung der französischen Sprache in lockerer Runde.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Wandern: Sonnenaufgangstour",
+    "description":"Frühes Aufstehen für eine Wanderung, um den Sonnenaufgang vom Gipfel zu sehen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Modelleisenbahn-Treffen",
+    "description":"Austausch und Fahren mit selbstgebauten Modelleisenbahnanlagen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "GAMING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Schlittentour im Schnee",
+    "description":"Rodeln auf einem lokalen Hügel. Spaß für Groß und Klein.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Besuch der Kunstakademie-Ausstellung",
+    "description":"Besichtigung der Abschlussarbeiten der Studenten der lokalen Kunstakademie.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"DIY-Kosmetik: Seifen sieden",
+    "description":"Workshop zur Herstellung eigener Naturseifen und Badezusätze.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "RELAX",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Wasserski/Wakeboarden",
+    "description":"Action auf dem Wasser an der lokalen Wasserski-Anlage.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Besuch eines klassischen Konzerts",
+    "description":"Konzertbesuch der lokalen Philharmoniker (Beethoven/Mozart).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "ART",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Leseclub für Fantasy-Romane",
+    "description":"Diskussion über das aktuell gelesene Fantasy-Buch (z.B. Tolkien, Martin).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Schnupperkurs: Capoeira",
+    "description":"Einführung in die brasilianische Kampfkunst, die Tanz und Akrobatik vereint.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "MUSIC",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Krimi-Dinner",
+    "description":"Ein interaktives Theaterstück, bei dem die Gäste einen Mordfall lösen müssen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "PARTY",
+      "SOCIAL",
+      "MOVIE"
+    ]
+  },
+  {
+    "title":"Pilgerweg-Wanderung (Teilabschnitt)",
+    "description":"Wandern eines historischen Pilgerwegs über eine Tagesstrecke.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "RELAX",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Städtereise: Wochenend-Trip nach Wien",
+    "description":"Planung und Durchführung einer kurzen Städtereise in die österreichische Hauptstadt.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "TRAVEL",
+      "LEARNING",
+      "FOOD"
+    ]
+  },
+  {
+    "title":"Volleyball am Netz",
+    "description":"Ein organisiertes Spiel auf einem Außenfeld oder in der Halle.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Workshop: Digitale Fotobearbeitung (Lightroom)",
+    "description":"Lerne die Grundlagen der RAW-Entwicklung und Bildretusche.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Gemeinsam Kochen: Indische Curry-Küche",
+    "description":"Zubereitung von authentischen Currys und Naan-Brot.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "SOCIAL",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Indoor-Minigolf/Schwarzlicht-Minigolf",
+    "description":"Eine Runde Minigolf in einer thematisch gestalteten Indoor-Anlage.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Workshop: Bonsai-Pflege",
+    "description":"Lerne die Techniken zum Beschneiden und Pflegen von Bonsai-Bäumen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "RELAX",
+      "LEARNING",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Tanz-Flashmob-Training",
+    "description":"Training für einen spontanen Tanz-Flashmob in der Innenstadt.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "SPORTS",
+      "SOCIAL",
+      "PARTY"
+    ]
+  },
+  {
+    "title":"Kanu-Tour bei Vollmond",
+    "description":"Eine stimmungsvolle, geführte Kanu-Tour bei Vollmond auf dem See.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "OUTDOOR",
+      "RELAX",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Besuch des Weihnachtsmarktes",
+    "description":"Glühwein trinken, gebrannte Mandeln essen und Geschenke kaufen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "PARTY",
+      "SOCIAL",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Geistige Fitness: Sudoku-Wettbewerb",
+    "description":"Freundschaftlicher Wettstreit im Lösen von Sudoku und anderen Logikrätseln.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Tierschutz: Hunde aus dem Tierheim ausführen",
+    "description":"Hilf ehrenamtlich mit, Hunde aus dem Tierheim auszuführen und mit ihnen zu spielen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Besichtigung einer Brauerei",
+    "description":"Geführte Tour durch eine lokale Brauerei mit anschließender Bierprobe.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Stand-Up Paddling (SUP) auf dem See",
+    "description":"Einweisung und gemeinsame Tour auf dem See mit dem Stand-Up Paddle Board.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Leseclub: Science-Fiction & Fantasy",
+    "description":"Ein Abend mit Kurzgeschichten und Auszügen aus neuen SF/Fantasy-Büchern.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Freiluftkino: Independent-Filme",
+    "description":"Gemütlicher Kinoabend unter freiem Himmel mit Popcorn und Decken.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MOVIE",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"DIY-Lederarbeiten",
+    "description":"Lerne die Grundlagen der Lederverarbeitung (z.B. für kleine Geldbörsen oder Etuis).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Workshop: Einfache Robotik für Kinder",
+    "description":"Ein spielerischer Kurs, um die Grundlagen der Robotik und Programmierung zu erlernen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "INDOOR",
+      "GAMING"
+    ]
+  },
+  {
+    "title":"Kochen: Persische Reisgerichte",
+    "description":"Ein kulinarischer Abend zur Zubereitung von traditionellem Tahdig und Khoresh.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Wandern: Die höchste Erhebung der Region",
+    "description":"Eine anspruchsvolle Tagestour zum höchsten Punkt der lokalen Landschaft.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "SPORTS"
+    ]
+  },
+  {
+    "title":"Besuch des Naturlehrpfades",
+    "description":"Ein informativer Spaziergang, um die lokale Flora und Fauna kennenzulernen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "OUTDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Konzert: Lokale Metal-Band",
+    "description":"Headbanging und laute Musik in einem Underground-Club.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "PARTY",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Handball-Freundschaftsspiel",
+    "description":"Ein lockeres Handball-Match in der Turnhalle. Alle können mitmachen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Upcycling-Workshop: Aus Alt mach Neu",
+    "description":"Alte Kleidungsstücke durch Färben, Sticken und Patchen aufwerten.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "VOLUNTEERING",
+      "LEARNING"
+    ]
+  },
+  {
+    "title":"Lounge-Abend: Entspannte Elektronische Musik",
+    "description":"Ein gemütlicher Abend mit Chill-Out und Ambient-Klängen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "RELAX",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Lesenacht: Thriller und Horror",
+    "description":"Die Nacht durchlesen, um die spannendsten Seiten des Genres zu erleben.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "RELAX",
+      "INDOOR",
+      "MOVIE"
+    ]
+  },
+  {
+    "title":"Bogensport-Parcours (3D)",
+    "description":"Ein Jagd-Parcours mit 3D-Tierattrappen für Bogenschützen im Wald.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "GAMING"
+    ]
+  },
+  {
+    "title":"Wein und Käse Pairing-Abend",
+    "description":"Verkostung von fünf Käsesorten, kombiniert mit passenden Weinen.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "SOCIAL",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Lernen: Einführung in die Philosophie",
+    "description":"Diskussionsrunde über die grundlegenden Fragen der Philosophie (z.B. Ethik).",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "LEARNING",
+      "INDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Freiwillige Arbeit: Tierarztpraxis unterstützen",
+    "description":"Hilf bei der Reinigung, Fütterung und Pflege von Tieren in einer Praxis.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "VOLUNTEERING",
+      "INDOOR",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Kräutertee mischen und probieren",
+    "description":"Lerne die verschiedenen Heilkräuter kennen und mische deine eigene Teemischung.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "RELAX"
+    ]
+  },
+  {
+    "title":"Tischfußball-Turnier (Kicker)",
+    "description":"Ein spannendes Kicker-Turnier in der lokalen Bar oder im Jugendzentrum.",
+    "language":"GERMAN",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "GAMING",
+      "INDOOR",
+      "SOCIAL",
+      "SPORTS"
+    ]
+  },
+  {
+    "title":"Visit to a Local Museum of Modern Art",
+    "description":"Guided tour through the new exhibition on abstract expressionism.",
+    "language":"ENGLISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Clase de Salsa para Principiantes",
+    "description":"Aprende los pasos básicos de la salsa en un ambiente divertido y enérgico.",
+    "language":"SPANISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "MUSIC",
+      "SPORTS",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Beginner's Kickboxing Class",
+    "description":"Learn basic stances, punches, and kicks in a supportive environment.",
+    "language":"ENGLISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Tour de vélo dans la campagne",
+    "description":"Une balade à vélo tranquille à travers les champs et les petits villages.",
+    "language":"FRENCH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "OUTDOOR",
+      "TRAVEL"
+    ]
+  },
+  {
+    "title":"Cooking Class: Authentic Italian Pasta",
+    "description":"Master the art of making fresh pasta from scratch: fettuccine and ravioli.",
+    "language":"ENGLISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Randonnée nocturne avec torches",
+    "description":"Une expérience de randonnée unique au clair de lune avec des torches et des histoires.",
+    "language":"FRENCH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "HIKING",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Game Night: Strategy Board Games",
+    "description":"An evening focused on complex strategy games like Terraforming Mars and Twilight Imperium.",
+    "language":"ENGLISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "BOARDGAME",
+      "INDOOR",
+      "GAMING"
+    ]
+  },
+  {
+    "title":"Taller de fotografía con smartphone",
+    "description":"Aprende a tomar fotos impresionantes y a editarlas usando solo tu teléfono móvil.",
+    "language":"SPANISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Sunset Beach Party",
+    "description":"Music, bonfires, and dancing on the beach as the sun goes down.",
+    "language":"ENGLISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "PARTY",
+      "MUSIC",
+      "OUTDOOR",
+      "SOCIAL"
+    ]
+  },
+  {
+    "title":"Cours de cuisine marocaine",
+    "description":"Apprenez à préparer un tajine authentique et d'autres plats traditionnels marocains.",
+    "language":"FRENCH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "FOOD",
+      "LEARNING",
+      "INDOOR"
+    ]
+  },
+  {
+    "title":"Mountain Biking in the Alps",
+    "description":"An advanced, multi-day trip through high-alpine trails for experienced riders.",
+    "language":"ENGLISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "SPORTS",
+      "TRAVEL",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Clase de yoga en la playa",
+    "description":"Sesión matutina de yoga Hatha al aire libre con el sonido de las olas.",
+    "language":"SPANISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "RELAX",
+      "SPORTS",
+      "OUTDOOR"
+    ]
+  },
+  {
+    "title":"Workshop: Stop-Motion Animation",
+    "description":"Learn the basics of creating short animated films using physical objects.",
+    "language":"ENGLISH",
+    "imageUrl":"https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png",
+    "tags":[
+      "ART",
+      "LEARNING",
+      "MOVIE",
+      "INDOOR"
+    ]
+  }
+]

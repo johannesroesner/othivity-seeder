@@ -1,10 +1,12 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"net/http"
 	"os"
 
+	"github.com/johannesroesner/othivity-seeder/activity"
 	"github.com/johannesroesner/othivity-seeder/address"
 	"github.com/johannesroesner/othivity-seeder/club"
 	"github.com/johannesroesner/othivity-seeder/profile"
@@ -23,6 +25,15 @@ func main() {
 
 	address.Init()
 
+	fmt.Println("seeding profiles...")
 	profile.Seed(client, jwtToken, targetUrl)
+	fmt.Println("seeding profiles done")
+
+	fmt.Println("seeding clubs...")
 	club.Seed(client, jwtToken, targetUrl)
+	fmt.Println("seeding clubs done")
+
+	fmt.Println("seeding activities...")
+	activity.Seed(client, jwtToken, targetUrl)
+	fmt.Println("seeding activities done")
 }
