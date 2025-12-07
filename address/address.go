@@ -2,6 +2,7 @@ package address
 
 import (
 	"encoding/json"
+	"fmt"
 	"log"
 	"math/rand"
 	"os"
@@ -47,7 +48,7 @@ func Generate() Address {
 	houseNumber := randomInt(regensburgAddress.Min, regensburgAddress.Max)
 	return Address{
 		Street:      regensburgAddress.Street,
-		HouseNumber: string(houseNumber),
+		HouseNumber: fmt.Sprintf("%d", houseNumber),
 		City:        regensburgAddress.City,
 		PostalCode:  regensburgAddress.ZipCode,
 	}

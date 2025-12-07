@@ -7,7 +7,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"time"
 )
 
 type profile struct {
@@ -81,7 +80,5 @@ func Seed(client http.Client, jwtToken string, targetUrl string) {
 		}
 
 		Ids = append(Ids, responseData.Id)
-
-		time.Sleep(100 * time.Millisecond)
 	}
 }

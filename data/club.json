@@ -92,7 +92,7 @@
   {
     "name": "Robotics Challenge Team",
     "description": "Entwicklung und Bau von Robotern für studentische Wettbewerbe",
-    "accessLevel": "INVITE_ONLY",
+    "accessLevel": "OPEN",
     "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
   },
   {
@@ -140,7 +140,7 @@
   {
     "name": "Medien & PR Team OTH",
     "description": "Unterstützung der Hochschul-PR und Social Media-Betreuung",
-    "accessLevel": "INVITE_ONLY",
+    "accessLevel": "OPEN",
     "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
   },
   {
@@ -206,7 +206,7 @@
   {
     "name": "Virtual & Augmented Reality Lab",
     "description": "Entwicklung von Prototypen und Workshops zu VR- und AR-Technologien (Hardware & Software).",
-    "accessLevel": "INVITE_ONLY",
+    "accessLevel": "OPEN",
     "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
   }
 ]

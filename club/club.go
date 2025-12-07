@@ -8,7 +8,6 @@ import (
 	"math/rand"
 	"net/http"
 	"os"
-	"time"
 
 	"github.com/johannesroesner/othivity-seeder/address"
 	"github.com/johannesroesner/othivity-seeder/profile"
@@ -89,7 +88,7 @@ func Seed(client http.Client, jwtToken string, targetUrl string) {
 		}(response.Body)
 
 		if response.StatusCode != http.StatusCreated {
-			log.Fatalf("error creating profile, status code: %d", response.StatusCode)
+			log.Fatalf("error creating club, status code: %d and clubName %s", response.StatusCode, club.Name)
 		}
 
 		var responseData responseBody
@@ -99,8 +98,6 @@ func Seed(client http.Client, jwtToken string, targetUrl string) {
 		}
 
 		Ids = append(Ids, responseData.Id)
-
-		time.Sleep(100 * time.Millisecond)
 	}
 }
 
