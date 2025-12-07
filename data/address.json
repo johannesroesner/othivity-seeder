@@ -1,0 +1,3432 @@
+[
+    {
+        "street": "Ackersegenweg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Ägidienplatz",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Agnes-Miegel-Weg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Ahornweg",
+        "min": 3,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Akazienweg",
+        "min": 3,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Alice-Salomon-Weg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Alte Manggasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Altenthal",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Alter Kornmarkt",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am alten Schlachthof",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am alten Schlag",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Am Bach",
+        "min": 1,
+        "max": 60,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Am Bergl",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Biopark",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Am Blumenrain",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Am Brandlberg",
+        "min": 3,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Brixener Hof",
+        "min": 3,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Brückenbasar",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Brückenfuß",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Buchenfeld",
+        "min": 11,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Am Dreifaltigkeitsberg",
+        "min": 7,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Europakanal",
+        "min": 21,
+        "max": 32,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Flachlberg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Am Flachsfeld",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Gries",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Gutshof",
+        "min": 3,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Hochbehälter",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Holzhof",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Hölzl",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Judenfeld",
+        "min": 3,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Judenstein",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Katzenbühl",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Keilstein",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Königshof",
+        "min": 3,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Kreuzhof",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Mühlbach",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Am Mühlberg",
+        "min": 51,
+        "max": 40,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Am Nordheim",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Am Ölberg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Ostbahnhof",
+        "min": 7,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Peterstor",
+        "min": 3,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Pfaffensteiner Hang",
+        "min": 3,
+        "max": 54,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Protzenweiher",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Römling",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Sallerner Berg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Am Sandberg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Am Schmiedberg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Am Singrün",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Sonnenhügel",
+        "min": 3,
+        "max": 86,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Am Stärzenbach",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Vitusbach",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Am Vogelherd",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Am Wiedfang",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Am Winterhafen",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Am Zieget",
+        "min": 3,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Amselweg",
+        "min": 3,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "An den Klostergründen",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "An den Weichser Breiten",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "An der Brunnstube",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "An der Ebenbreiten",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "An der Etz",
+        "min": 3,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "An der Hülling",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "An der Irler Höhe",
+        "min": 1,
+        "max": 42,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "An der Iselrinne",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "An der Klosterbreite",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "An der Kreuzbreite",
+        "min": 1,
+        "max": 26,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "An der Schauergrube",
+        "min": 3,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "An der Schergenbreite",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "An der Schierstadt",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "An der Schillerwiese",
+        "min": 3,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "An der Stadlbreiten",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Angerweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Annagasse",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Arnulfsplatz",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Asternweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Auergasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Auf der Grede",
+        "min": 5,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Auf der Platte",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Augustinerplatz",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Auhölzlweg",
+        "min": 7,
+        "max": 50,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Aureliaweg",
+        "min": 1,
+        "max": 42,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Auweg",
+        "min": 1,
+        "max": 50,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Bachackerweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Bäckergasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Badener Weg",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Baumhackergasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Bedelgasse",
+        "min": 3,
+        "max": 38,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Bei der Rinnen",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Bei der Sallermühle",
+        "min": 5,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Bei der Schanze",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Beim Roten Kreuz",
+        "min": 3,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Benediktusweg",
+        "min": 1,
+        "max": 42,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Bergackerweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Bernhard-Suttner-Weg",
+        "min": 3,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Biendlweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Bienenheimweg",
+        "min": 3,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Biersackgasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Birkenschlagweg",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "",
+        "min": 13,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Bismarckplatz",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Blaue-Lilien-Gasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Bollandweg",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Bonifatiusweg",
+        "min": 1,
+        "max": 64,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Brauergasse",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Brombeerweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Brücklmaierweg",
+        "min": 5,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Brunnleite",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Büechlgasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Burgfriedenweg",
+        "min": 1,
+        "max": 40,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Burgweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Carl-Orff-Weg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Cecilie-Vogt-Weg",
+        "min": 1,
+        "max": 44,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Ceresweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Clermont-Ferrand-Allee",
+        "min": 21,
+        "max": 40,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Cranachweg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Dachauplatz",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Dahlienweg",
+        "min": 1,
+        "max": 34,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Dänzergasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Danziger Freiheit",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Dechbetten",
+        "min": 11,
+        "max": 26,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Dechbettener Weinberg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Defreggerweg",
+        "min": 3,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Degelgrube",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Deischgasse",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Desingweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Domgarten",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Domplatz",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Donauerweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Donaulände",
+        "min": 7,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Donaumarkt",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "",
+        "min": 299,
+        "max": 378,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Dornfelderweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Drehergasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Dreifaltigkeitsbergweg",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Drei-Kronen-Gasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Drosselweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Droste-Hülshoff-Weg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Dultplatz",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Eck zum Vaulschink",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Eduard-Mühlbauer-Weg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Eibenweg",
+        "min": 3,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Eigenheimweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Eisenerzweg",
+        "min": 3,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Eisenrinerweg",
+        "min": 11,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Elisabeth-Selbert-Weg",
+        "min": 1,
+        "max": 26,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Ellen-Ammann-Weg",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Emma-Ihrer-Weg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Emmeramsplatz",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Enzianweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Erasmusweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Erboweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Erdbeerweg",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Erhardigasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Erikaweg",
+        "min": 1,
+        "max": 86,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Erlenweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Erzbischof-Buchberger-Allee",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Eschenweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Fahrbeckgasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Fährenweg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Fanny-Hensel-Weg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Faunusweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Feuerbachweg",
+        "min": 3,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Fidelgasse",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Finkenweg",
+        "min": 1,
+        "max": 34,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Fischgässel",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Fischmarkt",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Floraweg",
+        "min": 1,
+        "max": 34,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Franzensbader Weg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Franziskanerplatz",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Franz-Josef-Strauß-Allee",
+        "min": 11,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Franz-von-Taxis-Ring",
+        "min": 43,
+        "max": 72,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Franz-Winzinger-Weg",
+        "min": 13,
+        "max": 44,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Friedrich-Viehbacher-Allee",
+        "min": 3,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Fritz-Schäffer-Weg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Frohnwiesenweg",
+        "min": 3,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Fuchsengang",
+        "min": 7,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Gallingkofen",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Gambachweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Gartenweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Geibelplatz",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Geiersbergweg",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Gemeindewiesenweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Gerstenweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Gertrud-Bäumer-Weg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Gichtlgasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Ginsterweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Glockengasse",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Grabengasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Grasgasse",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Großprüfening",
+        "min": 1,
+        "max": 38,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Grünes Gäßchen",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Gschwandfeldweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Güntherweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Gutenbergplatz",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Guttensteinweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Haaggasse",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Haferweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hafnersteig",
+        "min": 5,
+        "max": 54,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Haidhofweg",
+        "min": 1,
+        "max": 52,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Haidplatz",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Haidschlagweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Hallergasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Hallstattweg",
+        "min": 1,
+        "max": 40,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hanngasse",
+        "min": 7,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Hanns-Seidel-Weg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Hanns-Steurer-Weg",
+        "min": 1,
+        "max": 26,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Harthofer Weg",
+        "min": 11,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Haslbachweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Heckenweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Heckgrabenweg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hedwig-Dransfeld-Weg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Heiliggeistgasse",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "",
+        "min": 19,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Herbert-Quandt-Allee",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Herrenplatz",
+        "min": 3,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Herzogin-Judith-Weg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Heuweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hiltnerweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Himbeerweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hinter der Grieb",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Hinterer Mühlweg",
+        "min": 1,
+        "max": 32,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Hochweg",
+        "min": 1,
+        "max": 72,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Hofgartenweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Hofweg",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hoher-Kreuz-Weg",
+        "min": 7,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hohlweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Holbeinweg",
+        "min": 3,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Hollerweg",
+        "min": 11,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Höllgasse",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Holzbergweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Holzwiesenweg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Hombergerweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Hopfengartenweg",
+        "min": 15,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Hüllgartenweg",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Hundsumkehr",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Hutweide",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Im Gewerbepark",
+        "min": 3,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Im Gschwander",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Im Langen Gwend",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Im Reichen Winkel",
+        "min": 9,
+        "max": 42,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "In der Obern Au",
+        "min": 3,
+        "max": 38,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Ingeborg-Bachmann-Weg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Irl",
+        "min": 1,
+        "max": 34,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Irlmauth",
+        "min": 3,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Islinger Weg",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Johann-Igl-Weg",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Josef-Bayer-Weg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Julianenweg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Kager",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Kagerer Weg",
+        "min": 3,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Kaiser-Friedrich-Allee",
+        "min": 1,
+        "max": 58,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Kalmünzergasse",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Karl-Fischer-Weg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Karthaus-Prüll",
+        "min": 5,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Käthe-Dorsch-Weg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Kaulbachweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Keilberger Schulweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Keilsteiner Breiten",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Keilsteiner Weg",
+        "min": 1,
+        "max": 38,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Kellerweg",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Kernerweg",
+        "min": 5,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Kieslgasse",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Kirchfeldallee",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Kirchweg",
+        "min": 5,
+        "max": 48,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Kleinfeld",
+        "min": 3,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Klosterackerweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Klostermeyergasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Kohlenmarkt",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Königswiesenweg",
+        "min": 5,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Konrad-Adenauer-Allee",
+        "min": 1,
+        "max": 40,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Kornweg",
+        "min": 1,
+        "max": 40,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Köstlergasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Kramgasse",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Krauterermarkt",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Krebsgasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Kreuzgasse",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Kürner Weg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Kurpfälzer Weg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Kurzer Weg",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Langer Weg",
+        "min": 1,
+        "max": 62,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Lärchenweg",
+        "min": 5,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Larenweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Lederergasse",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Leichtlgasse",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Lena-Christ-Weg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Leuchtenbergweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Liebermannweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "",
+        "min": 3,
+        "max": 76,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Lindenplatz",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Lindnergasse",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Lise-Meitner-Weg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Luisenweg",
+        "min": 3,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "",
+        "min": 15,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Lukasweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Lunaweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Macheinerweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Malergasse",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Mälzelweg",
+        "min": 5,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Mälzereiweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Margaretenau",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Marsweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Martinweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Merianweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Metzgerweg",
+        "min": 9,
+        "max": 52,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Minoritenweg",
+        "min": 1,
+        "max": 32,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Mispelweg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Mitterweg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Moosweg",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Müller-Thurgau-Weg",
+        "min": 3,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Münzerweg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Nelkenweg",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Neptunweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Neue-Waag-Gasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Neupfarrplatz",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Neuprüll",
+        "min": 1,
+        "max": 46,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Niedermünstergasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Niefangweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Nonnenplatz",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Nußweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Obere Bachgasse",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Oberfeldweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Obermünsterplatz",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Ödenthal",
+        "min": 1,
+        "max": 34,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "citynergasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Ostengasse",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Osterbergweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Ostheim",
+        "min": 1,
+        "max": 56,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Otterbachweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Otto-Prager-Weg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Pentlbergweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Pfaffensteiner Weg",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Pfarrergasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Pfauengasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Plattenweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Platz der Einheit",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Pomonaweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Pcitynergasse",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Posthorngäßchen",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Praschweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Prebrunnallee",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Preiselbeerweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Prinzenweg",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Prüfeninger Schulgasse",
+        "min": 3,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Rabenkellerweg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Raseliusweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Rathausplatz",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Rehgäßchen",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Reibergassl",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Reinhausen",
+        "min": 3,
+        "max": 46,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Reinhausener Damm",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Rennweg",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Riegergasse",
+        "min": 5,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "",
+        "min": 35,
+        "max": 90,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Roggenweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Röhrlbergweg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Röhrlgässel",
+        "min": 5,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Rosenweg",
+        "min": 1,
+        "max": 26,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Rosinusweg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Rotdornweg",
+        "min": 3,
+        "max": 34,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Rote-Hahnen-Gasse",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Roter-Brach-Weg",
+        "min": 1,
+        "max": 138,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Roter-Lilien-Winkel",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Rote-Stern-Gasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Rothmahlweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Rotkleeweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Ruckäckerweg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Rühlgässel",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Rupert-Preißl-Weg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Sallerergasse",
+        "min": 3,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Salzburger Gasse",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Salzgasse",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Sandgasse",
+        "min": 59,
+        "max": 88,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Sandra-Paretti-Weg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Saturnusweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Schattenhofergasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Schelmengraben",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Schlehenweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Schmidäckerweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Schopperplatz",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Schützenheimweg",
+        "min": 1,
+        "max": 46,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Schwabelweiser Donauufer",
+        "min": 1,
+        "max": 32,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Schwabelweiser Weg",
+        "min": 1,
+        "max": 46,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Schwanenplatz",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Schwindgrabenweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Schwindweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Seifensiedergasse",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Serpiliusweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Silbernagelgasse",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Silberne-Fisch-Gasse",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Silberne-Kranz-Gasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Simadergasse",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Sinzinger Weg",
+        "min": 5,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Solweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Sophienweg",
+        "min": 3,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Spatzengäßchen",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Speerweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Speichergasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Spiegelgasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Spindelbachweg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Spitalgasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Spitalkellerweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Stadtamhof",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Stadtfeldweg",
+        "min": 9,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Stahlzwingerweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Steiglehnerweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Steinbrecherweg",
+        "min": 3,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Steinergasse",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Steingrube",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Steinweg",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Steyrerweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "St.-Kassians-Platz",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Stobäusplatz",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Stollenweg",
+        "min": 1,
+        "max": 32,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Straßbreiten",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Stubaiweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "",
+        "min": 1,
+        "max": 46,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Sulzbachweg",
+        "min": 3,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Süssenbachweg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Talblick",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Talbreitenweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Tändlergasse",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Tannenweg",
+        "min": 5,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Tassiloweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Taubengäßchen",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Tegernheimer Schluchtweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Tegernheimer Weg",
+        "min": 3,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Thannsteinweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Theodor-Heuss-Platz",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Theresienweg",
+        "min": 3,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Thomas-Dehler-Weg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Toni-Pfülf-Weg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Traberweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Traubengasse",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Trothengasse",
+        "min": 3,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Tulpenweg",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Turfweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Unter den Schwibbögen",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Untere Bachgasse",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Unterer Ehweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "",
+        "min": 53,
+        "max": 34,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Vestaweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Victoriaweg",
+        "min": 1,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Viereimergasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Vintlweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Vogelbeerweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Volcanusweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Vor der Grieb",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Vorlandweg",
+        "min": 1,
+        "max": 36,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Waaggäßchen",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Wacholderweg",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Waffnergasse",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Wagnergasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Waldvereinsweg",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Waldweg",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Waldweidenweg",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Wartenbergweg",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Wassergasse",
+        "min": 1,
+        "max": 24,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Watmarkt",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Weichser Damm",
+        "min": 11,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Weichser Schloßgasse",
+        "min": 3,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Weichser Weg",
+        "min": 5,
+        "max": 38,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Weiherweg",
+        "min": 3,
+        "max": 30,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Weingasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Weintingergasse",
+        "min": 1,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Weinweg",
+        "min": 1,
+        "max": 40,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Weiße-Hahnen-Gasse",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Weißgerbergraben",
+        "min": 1,
+        "max": 26,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Weizenweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Welfenweg",
+        "min": 1,
+        "max": 28,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Westheim",
+        "min": 1,
+        "max": 44,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Wiesäckerweg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Wiesenweg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93055"
+    },
+    {
+        "street": "Wiesmeierweg",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Wildbachweg",
+        "min": 1,
+        "max": 14,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Wilhelm-Hoegner-Weg",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Wilhelm-Leibl-Weg",
+        "min": 1,
+        "max": 8,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Winkelfeldweg",
+        "min": 1,
+        "max": 20,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Winklergasse",
+        "min": 1,
+        "max": 18,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Winzersteig",
+        "min": 1,
+        "max": 4,
+        "city": "Regensburg",
+        "zipCode": "93059"
+    },
+    {
+        "street": "Wittweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93049"
+    },
+    {
+        "street": "Wollerweg",
+        "min": 1,
+        "max": 6,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Wollwirkergasse",
+        "min": 3,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Wutzlhofen",
+        "min": 1,
+        "max": 58,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Zandtengasse",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Zechenweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Zeitlarner Weg",
+        "min": 25,
+        "max": 10,
+        "city": "Regensburg",
+        "zipCode": "93057"
+    },
+    {
+        "street": "Ziegelweg",
+        "min": 1,
+        "max": 12,
+        "city": "Regensburg",
+        "zipCode": "93053"
+    },
+    {
+        "street": "Zieroldsplatz",
+        "min": 1,
+        "max": 2,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    },
+    {
+        "street": "Zur Schönen Aussicht",
+        "min": 1,
+        "max": 22,
+        "city": "Regensburg",
+        "zipCode": "93051"
+    },
+    {
+        "street": "Zur Schönen Gelegenheit",
+        "min": 1,
+        "max": 16,
+        "city": "Regensburg",
+        "zipCode": "93047"
+    }
+]
