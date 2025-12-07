@@ -231,13 +231,6 @@
         "zipCode": "93055"
     },
     {
-        "street": "Am Königshof",
-        "min": 3,
-        "max": 2,
-        "city": "Regensburg",
-        "zipCode": "93047"
-    },
-    {
         "street": "Am Kreuzhof",
         "min": 1,
         "max": 14,
@@ -250,13 +243,6 @@
         "max": 24,
         "city": "Regensburg",
         "zipCode": "93051"
-    },
-    {
-        "street": "Am Mühlberg",
-        "min": 51,
-        "max": 40,
-        "city": "Regensburg",
-        "zipCode": "93057"
     },
     {
         "street": "Am Nordheim",
@@ -278,13 +264,6 @@
         "max": 16,
         "city": "Regensburg",
         "zipCode": "93055"
-    },
-    {
-        "street": "Am Peterstor",
-        "min": 3,
-        "max": 2,
-        "city": "Regensburg",
-        "zipCode": "93047"
     },
     {
         "street": "Am Pfaffensteiner Hang",
@@ -420,13 +399,6 @@
         "zipCode": "93055"
     },
     {
-        "street": "An der Etz",
-        "min": 3,
-        "max": 4,
-        "city": "Regensburg",
-        "zipCode": "93051"
-    },
-    {
         "street": "An der Hülling",
         "min": 1,
         "max": 8,
@@ -481,13 +453,6 @@
         "max": 6,
         "city": "Regensburg",
         "zipCode": "93059"
-    },
-    {
-        "street": "An der Schillerwiese",
-        "min": 3,
-        "max": 4,
-        "city": "Regensburg",
-        "zipCode": "93049"
     },
     {
         "street": "An der Stadlbreiten",
@@ -665,13 +630,6 @@
         "zipCode": "93053"
     },
     {
-        "street": "Bienenheimweg",
-        "min": 3,
-        "max": 2,
-        "city": "Regensburg",
-        "zipCode": "93055"
-    },
-    {
         "street": "Biersackgasse",
         "min": 1,
         "max": 2,
@@ -684,13 +642,6 @@
         "max": 22,
         "city": "Regensburg",
         "zipCode": "93053"
-    },
-    {
-        "street": "",
-        "min": 13,
-        "max": 18,
-        "city": "Regensburg",
-        "zipCode": "93059"
     },
     {
         "street": "Bismarckplatz",
@@ -896,25 +847,11 @@
         "zipCode": "93049"
     },
     {
-        "street": "Donaulände",
-        "min": 7,
-        "max": 6,
-        "city": "Regensburg",
-        "zipCode": "93047"
-    },
-    {
         "street": "Donaumarkt",
         "min": 1,
         "max": 4,
         "city": "Regensburg",
         "zipCode": "93047"
-    },
-    {
-        "street": "",
-        "min": 299,
-        "max": 378,
-        "city": "Regensburg",
-        "zipCode": "93059"
     },
     {
         "street": "Dornfelderweg",
@@ -997,13 +934,6 @@
         "street": "Eisenerzweg",
         "min": 3,
         "max": 24,
-        "city": "Regensburg",
-        "zipCode": "93055"
-    },
-    {
-        "street": "Eisenrinerweg",
-        "min": 11,
-        "max": 12,
         "city": "Regensburg",
         "zipCode": "93055"
     },
@@ -1223,13 +1153,6 @@
         "max": 36,
         "city": "Regensburg",
         "zipCode": "93055"
-    },
-    {
-        "street": "Fuchsengang",
-        "min": 7,
-        "max": 6,
-        "city": "Regensburg",
-        "zipCode": "93047"
     },
     {
         "street": "Gallingkofen",
@@ -1482,13 +1405,6 @@
         "max": 20,
         "city": "Regensburg",
         "zipCode": "93047"
-    },
-    {
-        "street": "",
-        "min": 19,
-        "max": 20,
-        "city": "Regensburg",
-        "zipCode": "93059"
     },
     {
         "street": "Herbert-Quandt-Allee",
@@ -2002,13 +1918,6 @@
         "zipCode": "93051"
     },
     {
-        "street": "",
-        "min": 3,
-        "max": 76,
-        "city": "Regensburg",
-        "zipCode": "93059"
-    },
-    {
         "street": "Lindenplatz",
         "min": 1,
         "max": 4,
@@ -2035,13 +1944,6 @@
         "max": 18,
         "city": "Regensburg",
         "zipCode": "93049"
-    },
-    {
-        "street": "",
-        "min": 15,
-        "max": 20,
-        "city": "Regensburg",
-        "zipCode": "93059"
     },
     {
         "street": "Lukasweg",
@@ -2455,13 +2357,6 @@
         "max": 18,
         "city": "Regensburg",
         "zipCode": "93055"
-    },
-    {
-        "street": "",
-        "min": 35,
-        "max": 90,
-        "city": "Regensburg",
-        "zipCode": "93059"
     },
     {
         "street": "Roggenweg",
@@ -2898,13 +2793,6 @@
         "zipCode": "93057"
     },
     {
-        "street": "",
-        "min": 1,
-        "max": 46,
-        "city": "Regensburg",
-        "zipCode": "93059"
-    },
-    {
         "street": "Sulzbachweg",
         "min": 3,
         "max": 8,
@@ -3064,13 +2952,6 @@
         "max": 12,
         "city": "Regensburg",
         "zipCode": "93055"
-    },
-    {
-        "street": "",
-        "min": 53,
-        "max": 34,
-        "city": "Regensburg",
-        "zipCode": "93059"
     },
     {
         "street": "Vestaweg",
@@ -3386,13 +3267,6 @@
         "max": 12,
         "city": "Regensburg",
         "zipCode": "93051"
-    },
-    {
-        "street": "Zeitlarner Weg",
-        "min": 25,
-        "max": 10,
-        "city": "Regensburg",
-        "zipCode": "93057"
     },
     {
         "street": "Ziegelweg",

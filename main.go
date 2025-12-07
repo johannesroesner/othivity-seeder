@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/johannesroesner/othivity-seeder/activity"
 	"github.com/johannesroesner/othivity-seeder/address"
 	"github.com/johannesroesner/othivity-seeder/club"
 	"github.com/johannesroesner/othivity-seeder/profile"
@@ -32,10 +33,7 @@ func main() {
 	club.Seed(client, jwtToken, targetUrl)
 	fmt.Println("seeding clubs done")
 
-	/*
-		fmt.Println("seeding activities...")
-		activity.Seed(client, jwtToken, targetUrl)
-		fmt.Println("seeding activities done")
-
-	*/
+	fmt.Println("seeding activities...")
+	activity.Seed(client, jwtToken, targetUrl)
+	fmt.Println("seeding activities done")
 }
