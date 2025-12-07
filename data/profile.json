@@ -45,8 +45,8 @@
     "theme": "NORD"
   },
   {
-    "username": "ForestWalker",
-    "email": "walkerforest@baeren.de",
+    "username": "Waldläufer",
+    "email": "waldlaeufer@forst.de",
     "password": "securePass006",
     "firstName": "Sophie",
     "lastName": "Wagner",
@@ -72,17 +72,17 @@
     "theme": "SUNSET"
   },
   {
-    "username": "MidnightRider",
-    "email": "nightrider@bikes.io",
+    "username": "NachtFahrer",
+    "email": "fahrer_nacht@moto.de",
     "password": "securePass009",
     "firstName": "Ava",
-    "lastName": "Jones",
-    "language": "ENGLISH",
+    "lastName": "Müller",
+    "language": "GERMAN",
     "theme": "NIGHT"
   },
   {
-    "username": "BeeBuzz",
-    "email": "buzzbee@honey.org",
+    "username": "Bienenkönig",
+    "email": "bienenk@honig.de",
     "password": "securePass010",
     "firstName": "Felix",
     "lastName": "Schulz",
@@ -108,17 +108,17 @@
     "theme": "AUTUMN"
   },
   {
-    "username": "StarGazer",
-    "email": "gazerstar@universe.net",
+    "username": "Sternengucker",
+    "email": "guckerstar@kosmos.de",
     "password": "securePass013",
-    "firstName": "Elijah",
-    "lastName": "Brown",
-    "language": "ENGLISH",
+    "firstName": "Elias",
+    "lastName": "Braun",
+    "language": "GERMAN",
     "theme": "FANTASY"
   },
   {
-    "username": "WinterCoat",
-    "email": "coatwinter@snow.de",
+    "username": "Wintermantel",
+    "email": "mantelwinter@schnee.de",
     "password": "securePass014",
     "firstName": "Clara",
     "lastName": "Becker",
@@ -144,12 +144,12 @@
     "theme": "LUXURY"
   },
   {
-    "username": "AcidDrop",
-    "email": "dropacid@chem.io",
+    "username": "SäureTropfen",
+    "email": "tropfensaure@chem.de",
     "password": "securePass017",
     "firstName": "Mia",
-    "lastName": "Davis",
-    "language": "ENGLISH",
+    "lastName": "Kern",
+    "language": "GERMAN",
     "theme": "ACID"
   },
   {
@@ -180,17 +180,17 @@
     "theme": "PASTEL"
   },
   {
-    "username": "ShadowWalker",
-    "email": "walker_s@shadows.com",
+    "username": "Schattenläufer",
+    "email": "laeufer_s@schatten.de",
     "password": "securePass021",
-    "firstName": "Jackson",
-    "lastName": "Garcia",
-    "language": "ENGLISH",
+    "firstName": "Jakob",
+    "lastName": "Gruber",
+    "language": "GERMAN",
     "theme": "DARK"
   },
   {
     "username": "CMYKPrint",
-    "email": "printcmyk@colors.de",
+    "email": "printcmyk@farben.de",
     "password": "securePass022",
     "firstName": "Luisa",
     "lastName": "Meyer",
@@ -216,17 +216,17 @@
     "theme": "WIREFRAME"
   },
   {
-    "username": "HalloweenCat",
-    "email": "cathallow@spooky.io",
+    "username": "HalloweenKatze",
+    "email": "katzehallow@grusel.de",
     "password": "securePass025",
     "firstName": "Chloe",
-    "lastName": "Wilson",
-    "language": "ENGLISH",
+    "lastName": "Weber",
+    "language": "GERMAN",
     "theme": "HALLOWEEN"
   },
   {
-    "username": "CoffeeBreak",
-    "email": "breakcoffee@beans.de",
+    "username": "Kaffeepause",
+    "email": "pausekaffee@bohnen.de",
     "password": "securePass026",
     "firstName": "Max",
     "lastName": "Kruse",
@@ -252,12 +252,12 @@
     "theme": "BLACK"
   },
   {
-    "username": "GardenBloom",
-    "email": "bloomgarden@flowers.com",
+    "username": "GartenBlüte",
+    "email": "bluetegarten@blumen.de",
     "password": "securePass029",
     "firstName": "Leo",
-    "lastName": "Taylor",
-    "language": "ENGLISH",
+    "lastName": "Schmidt",
+    "language": "GERMAN",
     "theme": "GARDEN"
   },
   {
@@ -288,17 +288,17 @@
     "theme": "CORPORATE"
   },
   {
-    "username": "LightModeFan",
-    "email": "fanlight@white.io",
+    "username": "LichtFan",
+    "email": "fanlicht@weiss.de",
     "password": "securePass033",
     "firstName": "Ethan",
-    "lastName": "Moore",
-    "language": "ENGLISH",
+    "lastName": "Müller",
+    "language": "GERMAN",
     "theme": "LIGHT"
   },
   {
-    "username": "DarkSide",
-    "email": "sidedark@abyss.de",
+    "username": "DunkleSeite",
+    "email": "seitedunkel@abgrund.de",
     "password": "securePass034",
     "firstName": "Anna",
     "lastName": "Koch",
@@ -306,12 +306,12 @@
     "theme": "DARK"
   },
   {
-    "username": "FairyDust",
-    "email": "dustfairy@magic.org",
+    "username": "MagicWand",
+    "email": "wandmagic@spell.io",
     "password": "securePass035",
-    "firstName": "Camille",
-    "lastName": "Dupont",
-    "language": "FRENCH",
+    "firstName": "Emma",
+    "lastName": "Clark",
+    "language": "ENGLISH",
     "theme": "FANTASY"
   },
   {
@@ -324,17 +324,17 @@
     "theme": "AQUA"
   },
   {
-    "username": "Snowflake",
-    "email": "flake_snow@ice.com",
+    "username": "Schneeflocke",
+    "email": "flockeschnee@eis.de",
     "password": "securePass037",
     "firstName": "Hannah",
-    "lastName": "Hall",
-    "language": "ENGLISH",
+    "lastName": "Bauer",
+    "language": "GERMAN",
     "theme": "WINTER"
   },
   {
-    "username": "AutumnLeaf",
-    "email": "leafautumn@fall.net",
+    "username": "Herbstblatt",
+    "email": "blattherbst@fall.net",
     "password": "securePass038",
     "firstName": "Paul",
     "lastName": "Wolf",
@@ -360,17 +360,17 @@
     "theme": "DRACULA"
   },
   {
-    "username": "PastryChef",
-    "email": "chefpastry@bake.io",
+    "username": "Konditor",
+    "email": "konditor@backen.de",
     "password": "securePass041",
     "firstName": "Ben",
-    "lastName": "Clarke",
-    "language": "ENGLISH",
+    "lastName": "Meyer",
+    "language": "GERMAN",
     "theme": "CUPCAKE"
   },
   {
-    "username": "EmeraldIsle",
-    "email": "isleemerald@green.de",
+    "username": "SmaragdInsel",
+    "email": "inselsmaragd@gruen.de",
     "password": "securePass042",
     "firstName": "Laura",
     "lastName": "Bauer",
@@ -405,8 +405,8 @@
     "theme": "CYBERPUNK"
   },
   {
-    "username": "LoveBird",
-    "email": "birdlove@kisses.de",
+    "username": "Liebesvogel",
+    "email": "vogel_liebe@herz.de",
     "password": "securePass046",
     "firstName": "Katrin",
     "lastName": "Schmid",
@@ -432,17 +432,17 @@
     "theme": "GARDEN"
   },
   {
-    "username": "PineTree",
-    "email": "treepine@woods.com",
+    "username": "Kiefer",
+    "email": "kieferbaum@wald.de",
     "password": "securePass049",
-    "firstName": "Riley",
-    "lastName": "Young",
-    "language": "ENGLISH",
+    "firstName": "Rainer",
+    "lastName": "Jung",
+    "language": "GERMAN",
     "theme": "FOREST"
   },
   {
-    "username": "RadioWaves",
-    "email": "wavesradio@static.de",
+    "username": "Radiowellen",
+    "email": "wellenradio@statik.de",
     "password": "securePass050",
     "firstName": "Steffen",
     "lastName": "Jäger",
@@ -459,26 +459,26 @@
     "theme": "PASTEL"
   },
   {
-    "username": "MagicWand",
-    "email": "wandmagic@spell.es",
+    "username": "Zauberstab",
+    "email": "stabzauber@magic.de",
     "password": "securePass052",
-    "firstName": "Gabriel",
-    "lastName": "Ramírez",
-    "language": "SPANISH",
+    "firstName": "Silke",
+    "lastName": "Meister",
+    "language": "GERMAN",
     "theme": "FANTASY"
   },
   {
-    "username": "Blueprint",
-    "email": "printblue@plan.io",
+    "username": "Blaupause",
+    "email": "pauseblau@plan.de",
     "password": "securePass053",
     "firstName": "Sam",
-    "lastName": "Hill",
-    "language": "ENGLISH",
+    "lastName": "Hügel",
+    "language": "GERMAN",
     "theme": "WIREFRAME"
   },
   {
-    "username": "BlackHole",
-    "email": "holeblack@space.de",
+    "username": "SchwarzesLoch",
+    "email": "lochschwarz@raum.de",
     "password": "securePass054",
     "firstName": "Nico",
     "lastName": "Braun",
@@ -505,16 +505,16 @@
   },
   {
     "username": "MagentaMix",
-    "email": "mixmagenta@ink.com",
+    "email": "mixmagenta@tinte.de",
     "password": "securePass057",
     "firstName": "Alex",
-    "lastName": "Cooper",
-    "language": "ENGLISH",
+    "lastName": "Kupfer",
+    "language": "GERMAN",
     "theme": "CMYK"
   },
   {
-    "username": "FallHarvest",
-    "email": "harvestfall@corn.net",
+    "username": "HerbstErnte",
+    "email": "ernteherbst@korn.net",
     "password": "securePass058",
     "firstName": "Marie",
     "lastName": "Lehmann",
@@ -540,17 +540,17 @@
     "theme": "ACID"
   },
   {
-    "username": "IcedCoffee",
-    "email": "coffee_iced@chill.io",
+    "username": "Eiskaffee",
+    "email": "kaffee_eis@chill.de",
     "password": "securePass061",
     "firstName": "Jamie",
-    "lastName": "King",
-    "language": "ENGLISH",
+    "lastName": "König",
+    "language": "GERMAN",
     "theme": "COFFEE"
   },
   {
-    "username": "IceKing",
-    "email": "kingice@cold.de",
+    "username": "Eiskönig",
+    "email": "koenigeis@kalt.de",
     "password": "securePass062",
     "firstName": "Tim",
     "lastName": "Kramer",
@@ -576,17 +576,17 @@
     "theme": "NORD"
   },
   {
-    "username": "BrightStar",
-    "email": "starbright@shine.com",
+    "username": "HelleStern",
+    "email": "sternhell@glanz.de",
     "password": "securePass065",
     "firstName": "Corey",
-    "lastName": "Baker",
-    "language": "ENGLISH",
+    "lastName": "Bäcker",
+    "language": "GERMAN",
     "theme": "LIGHT"
   },
   {
-    "username": "NightOwl",
-    "email": "owlnight@sleep.net",
+    "username": "Nachteule",
+    "email": "eulenacht@schlaf.net",
     "password": "securePass066",
     "firstName": "Sebastian",
     "lastName": "Hartmann",
@@ -612,17 +612,17 @@
     "theme": "BUMBLEBEE"
   },
   {
-    "username": "DeepSea",
-    "email": "seadeep@blue.io",
+    "username": "Tiefsee",
+    "email": "seetief@blau.de",
     "password": "securePass069",
     "firstName": "Erin",
-    "lastName": "Nelson",
-    "language": "ENGLISH",
+    "lastName": "Neumann",
+    "language": "GERMAN",
     "theme": "AQUA"
   },
   {
-    "username": "FantasyWorld",
-    "email": "worldfantasy@elves.de",
+    "username": "Fantasiewelt",
+    "email": "weltfantasy@elfen.de",
     "password": "securePass070",
     "firstName": "Michael",
     "lastName": "Weber",
@@ -648,17 +648,17 @@
     "theme": "CYBERPUNK"
   },
   {
-    "username": "BloodMoon",
-    "email": "moonblood@bats.com",
+    "username": "Blutmond",
+    "email": "mondblut@fleder.de",
     "password": "securePass073",
     "firstName": "Dylan",
-    "lastName": "Perez",
-    "language": "ENGLISH",
+    "lastName": "Schubert",
+    "language": "GERMAN",
     "theme": "DRACULA"
   },
   {
-    "username": "PrintingPress",
-    "email": "pressprint@colors.net",
+    "username": "Druckpresse",
+    "email": "pressedruck@farben.net",
     "password": "securePass074",
     "firstName": "Hannah",
     "lastName": "Meier",
@@ -684,12 +684,12 @@
     "theme": "WINTER"
   },
   {
-    "username": "MintGreen",
-    "email": "greenmint@fresh.io",
+    "username": "Minzgrün",
+    "email": "gruenminz@frisch.de",
     "password": "securePass077",
     "firstName": "Kira",
-    "lastName": "Hayes",
-    "language": "ENGLISH",
+    "lastName": "Kruger",
+    "language": "GERMAN",
     "theme": "EMERALD"
   },
   {
@@ -720,17 +720,17 @@
     "theme": "WIREFRAME"
   },
   {
-    "username": "DeepForest",
-    "email": "forestdeep@trees.com",
+    "username": "TieferWald",
+    "email": "waldtief@baeume.de",
     "password": "securePass081",
     "firstName": "Noah",
-    "lastName": "Miller",
-    "language": "ENGLISH",
+    "lastName": "Müller",
+    "language": "GERMAN",
     "theme": "FOREST"
   },
   {
-    "username": "OfficeLife",
-    "email": "lifeoffice@suit.net",
+    "username": "Büroleben",
+    "email": "lebenbuero@anzug.net",
     "password": "securePass082",
     "firstName": "Katja",
     "lastName": "Hoffmann",
@@ -756,17 +756,17 @@
     "theme": "LUXURY"
   },
   {
-    "username": "DarkDimension",
-    "email": "dimension_d@void.io",
+    "username": "DunkleDimension",
+    "email": "dimension_d@leere.de",
     "password": "securePass085",
     "firstName": "Phoebe",
-    "lastName": "Anderson",
-    "language": "ENGLISH",
+    "lastName": "Anders",
+    "language": "GERMAN",
     "theme": "DARK"
   },
   {
-    "username": "YellowSunshine",
-    "email": "sunyellow@happy.de",
+    "username": "GelberSonnenschein",
+    "email": "sonnegelb@glück.de",
     "password": "securePass086",
     "firstName": "Silas",
     "lastName": "Groß",
@@ -792,12 +792,12 @@
     "theme": "NIGHT"
   },
   {
-    "username": "MorningCoffee",
-    "email": "coffeemorn@wake.com",
+    "username": "Morgenkaffee",
+    "email": "kaffeemorn@wach.de",
     "password": "securePass089",
     "firstName": "Asher",
-    "lastName": "Fisher",
-    "language": "ENGLISH",
+    "lastName": "Fischer",
+    "language": "GERMAN",
     "theme": "COFFEE"
   },
   {
@@ -828,17 +828,17 @@
     "theme": "SUNSET"
   },
   {
-    "username": "DarkHallow",
-    "email": "hallowdark@oct.io",
+    "username": "DunkelHallow",
+    "email": "hallowdunkel@okt.de",
     "password": "securePass093",
     "firstName": "Tyler",
-    "lastName": "Morgan",
-    "language": "ENGLISH",
+    "lastName": "Wagner",
+    "language": "GERMAN",
     "theme": "HALLOWEEN"
   },
   {
-    "username": "RoseGarden",
-    "email": "gardenrose@thorns.de",
+    "username": "Rosengarten",
+    "email": "gartenrose@dornen.de",
     "password": "securePass094",
     "firstName": "Julian",
     "lastName": "Vogel",
@@ -855,12 +855,12 @@
     "theme": "VALENTINE"
   },
   {
-    "username": "SeaWave",
-    "email": "wavesea@water.es",
+    "username": "DeepBlue",
+    "email": "blue_deep@sea.io",
     "password": "securePass096",
-    "firstName": "Andrea",
-    "lastName": "Salas",
-    "language": "SPANISH",
+    "firstName": "Ryan",
+    "lastName": "Hall",
+    "language": "ENGLISH",
     "theme": "AQUA"
   },
   {
@@ -873,8 +873,8 @@
     "theme": "BUSINESS"
   },
   {
-    "username": "LightFeather",
-    "email": "featherlight@air.net",
+    "username": "LeichteFeder",
+    "email": "federleicht@luft.net",
     "password": "securePass098",
     "firstName": "Sina",
     "lastName": "Wirth",
@@ -898,5 +898,1355 @@
     "lastName": "Cruz",
     "language": "SPANISH",
     "theme": "WIREFRAME"
+  },
+  {
+    "username": "CodeWarrior",
+    "email": "warriorcode@techs.de",
+    "password": "securePass101",
+    "firstName": "Zoe",
+    "lastName": "Adam",
+    "language": "GERMAN",
+    "theme": "CYBERPUNK"
+  },
+  {
+    "username": "DraculaBride",
+    "email": "brautvondrac@vamp.de",
+    "password": "securePass102",
+    "firstName": "Klaus",
+    "lastName": "Schmidt",
+    "language": "GERMAN",
+    "theme": "DRACULA"
+  },
+  {
+    "username": "ChillVibes",
+    "email": "vibeschill@entspannt.de",
+    "password": "securePass103",
+    "firstName": "Luca",
+    "lastName": "Dorn",
+    "language": "GERMAN",
+    "theme": "LOFI"
+  },
+  {
+    "username": "Meeresbrise",
+    "email": "brise_ocean@meer.de",
+    "password": "securePass104",
+    "firstName": "Karl",
+    "lastName": "Navarro",
+    "language": "GERMAN",
+    "theme": "AQUA"
+  },
+  {
+    "username": "NorthernLight",
+    "email": "lightnorth@polaris.com",
+    "password": "securePass105",
+    "firstName": "Finley",
+    "lastName": "Morris",
+    "language": "ENGLISH",
+    "theme": "NORD"
+  },
+  {
+    "username": "Kiefernadel",
+    "email": "nadelpine@wald.de",
+    "password": "securePass106",
+    "firstName": "Nele",
+    "lastName": "Köhler",
+    "language": "GERMAN",
+    "theme": "FOREST"
+  },
+  {
+    "username": "8BitHero",
+    "email": "hero8bit@pixelfun.fr",
+    "password": "securePass107",
+    "firstName": "Théo",
+    "lastName": "Leroux",
+    "language": "FRENCH",
+    "theme": "RETRO"
+  },
+  {
+    "username": "GoldenHour",
+    "email": "hourgolden@warm.net",
+    "password": "securePass108",
+    "firstName": "Elena",
+    "lastName": "Sánchez",
+    "language": "SPANISH",
+    "theme": "SUNSET"
+  },
+  {
+    "username": "Mondlichtläufer",
+    "email": "laeufer_mond@dunkel.de",
+    "password": "securePass109",
+    "firstName": "Caleb",
+    "lastName": "Riedel",
+    "language": "GERMAN",
+    "theme": "NIGHT"
+  },
+  {
+    "username": "Bienenstock",
+    "email": "stock_biene@imker.de",
+    "password": "securePass110",
+    "firstName": "Mia",
+    "lastName": "Braun",
+    "language": "GERMAN",
+    "theme": "BUMBLEBEE"
+  },
+  {
+    "username": "WhiteCanvas",
+    "email": "canvaswhite@design.fr",
+    "password": "securePass111",
+    "firstName": "Jules",
+    "lastName": "Renard",
+    "language": "FRENCH",
+    "theme": "LIGHT"
+  },
+  {
+    "username": "DesertNomad",
+    "email": "nomaddesert@sand.es",
+    "password": "securePass112",
+    "firstName": "Rubén",
+    "lastName": "Iglesias",
+    "language": "SPANISH",
+    "theme": "AUTUMN"
+  },
+  {
+    "username": "Zauberlehrling",
+    "email": "lehrling_z@zauber.de",
+    "password": "securePass113",
+    "firstName": "Jasper",
+    "lastName": "Weiß",
+    "language": "GERMAN",
+    "theme": "FANTASY"
+  },
+  {
+    "username": "GefrorenerSee",
+    "email": "seegfror@eis.de",
+    "password": "securePass114",
+    "firstName": "Lukas",
+    "lastName": "Schulz",
+    "language": "GERMAN",
+    "theme": "WINTER"
+  },
+  {
+    "username": "BoardroomKing",
+    "email": "kingboard@finance.fr",
+    "password": "securePass115",
+    "firstName": "Guillaume",
+    "lastName": "Petit",
+    "language": "FRENCH",
+    "theme": "CORPORATE"
+  },
+  {
+    "username": "DiamondMine",
+    "email": "minediamond@wealth.net",
+    "password": "securePass116",
+    "firstName": "Sofía",
+    "lastName": "Ramos",
+    "language": "SPANISH",
+    "theme": "LUXURY"
+  },
+  {
+    "username": "ChemischeVerbrennung",
+    "email": "verbrennung_c@labor.de",
+    "password": "securePass117",
+    "firstName": "Kian",
+    "lastName": "Meyer",
+    "language": "GERMAN",
+    "theme": "ACID"
+  },
+  {
+    "username": "DonutDreamer",
+    "email": "dreamerdonut@suess.de",
+    "password": "securePass118",
+    "firstName": "Frida",
+    "lastName": "Keller",
+    "language": "GERMAN",
+    "theme": "CUPCAKE"
+  },
+  {
+    "username": "JadeStone",
+    "email": "stonejade@precious.org",
+    "password": "securePass119",
+    "firstName": "Noémie",
+    "lastName": "Michel",
+    "language": "FRENCH",
+    "theme": "EMERALD"
+  },
+  {
+    "username": "BubblegumPop",
+    "email": "popgum@candy.es",
+    "password": "securePass120",
+    "firstName": "Leo",
+    "lastName": "Mendoza",
+    "language": "SPANISH",
+    "theme": "PASTEL"
+  },
+  {
+    "username": "VoidTaucher",
+    "email": "taucher_void@stille.de",
+    "password": "securePass121",
+    "firstName": "Rhys",
+    "lastName": "Patzelt",
+    "language": "GERMAN",
+    "theme": "DARK"
+  },
+  {
+    "username": "RGBMixer",
+    "email": "mixer_rgb@screens.de",
+    "password": "securePass122",
+    "firstName": "Jana",
+    "lastName": "Weber",
+    "language": "GERMAN",
+    "theme": "CMYK"
+  },
+  {
+    "username": "Zestful",
+    "email": "zestful@fresh.fr",
+    "password": "securePass123",
+    "firstName": "Maxime",
+    "lastName": "Martin",
+    "language": "FRENCH",
+    "theme": "LEMONADE"
+  },
+  {
+    "username": "GridSystem",
+    "email": "systemgrid@dev.net",
+    "password": "securePass124",
+    "firstName": "Adrián",
+    "lastName": "Torres",
+    "language": "SPANISH",
+    "theme": "WIREFRAME"
+  },
+  {
+    "username": "HexenStunde",
+    "email": "stundehexen@okult.de",
+    "password": "securePass125",
+    "firstName": "Scarlett",
+    "lastName": "König",
+    "language": "GERMAN",
+    "theme": "HALLOWEEN"
+  },
+  {
+    "username": "EspressoShot",
+    "email": "shotespresso@bohne.de",
+    "password": "securePass126",
+    "firstName": "Felix",
+    "lastName": "Müller",
+    "language": "GERMAN",
+    "theme": "COFFEE"
+  },
+  {
+    "username": "PinkRose",
+    "email": "rosepink@charming.fr",
+    "password": "securePass127",
+    "firstName": "Amélie",
+    "lastName": "Bernard",
+    "language": "FRENCH",
+    "theme": "VALENTINE"
+  },
+  {
+    "username": "ShadowDancer",
+    "email": "dancer_s@obscure.es",
+    "password": "securePass128",
+    "firstName": "Manuel",
+    "lastName": "Vázquez",
+    "language": "SPANISH",
+    "theme": "BLACK"
+  },
+  {
+    "username": "WildFlower",
+    "email": "flowerwild@meadow.com",
+    "password": "securePass129",
+    "firstName": "Poppy",
+    "lastName": "Evans",
+    "language": "ENGLISH",
+    "theme": "GARDEN"
+  },
+  {
+    "username": "SynthPilot",
+    "email": "pilotsynth@keys.net",
+    "password": "securePass130",
+    "firstName": "Finn",
+    "lastName": "Huber",
+    "language": "GERMAN",
+    "theme": "SYNTHWAVE"
+  },
+  {
+    "username": "MistyMorning",
+    "email": "morningmisty@brume.fr",
+    "password": "securePass131",
+    "firstName": "Paul",
+    "lastName": "Dubois",
+    "language": "FRENCH",
+    "theme": "DIM"
+  },
+  {
+    "username": "ExecutiveSuite",
+    "email": "suiteexec@biz.es",
+    "password": "securePass132",
+    "firstName": "Luisa",
+    "lastName": "Pérez",
+    "language": "SPANISH",
+    "theme": "CORPORATE"
+  },
+  {
+    "username": "ReinesWeiss",
+    "email": "weißrein@sauber.de",
+    "password": "securePass133",
+    "firstName": "Henry",
+    "lastName": "Jansen",
+    "language": "GERMAN",
+    "theme": "LIGHT"
+  },
+  {
+    "username": "TiefeSchatten",
+    "email": "schattentief@dunkel.de",
+    "password": "securePass134",
+    "firstName": "Clara",
+    "lastName": "Brandt",
+    "language": "GERMAN",
+    "theme": "DARK"
+  },
+  {
+    "username": "ElvenArcher",
+    "email": "archer_elven@woods.org",
+    "password": "securePass135",
+    "firstName": "Margaux",
+    "lastName": "Dupont",
+    "language": "FRENCH",
+    "theme": "FANTASY"
+  },
+  {
+    "username": "CoralReef",
+    "email": "reefcoral@trop.es",
+    "password": "securePass136",
+    "firstName": "Javier",
+    "lastName": "Garrido",
+    "language": "SPANISH",
+    "theme": "AQUA"
+  },
+  {
+    "username": "Gletschergipfel",
+    "email": "gipfelgletscher@frost.de",
+    "password": "securePass137",
+    "firstName": "Maya",
+    "lastName": "Meier",
+    "language": "GERMAN",
+    "theme": "WINTER"
+  },
+  {
+    "username": "KürbisGewürz",
+    "email": "gewürzkürbis@herbst.net",
+    "password": "securePass138",
+    "firstName": "Anna",
+    "lastName": "Seidel",
+    "language": "GERMAN",
+    "theme": "AUTUMN"
+  },
+  {
+    "username": "SweetNectar",
+    "email": "nectarsweet@pollen.fr",
+    "password": "securePass139",
+    "firstName": "Nicolas",
+    "lastName": "Lefevre",
+    "language": "FRENCH",
+    "theme": "BUMBLEBEE"
+  },
+  {
+    "username": "NightHunter",
+    "email": "hunternight@bloods.es",
+    "password": "securePass140",
+    "firstName": "Teresa",
+    "lastName": "López",
+    "language": "SPANISH",
+    "theme": "DRACULA"
+  },
+  {
+    "username": "BäckereiChef",
+    "email": "chefbaeckerei@mehl.de",
+    "password": "securePass141",
+    "firstName": "Ethan",
+    "lastName": "Kuper",
+    "language": "GERMAN",
+    "theme": "CUPCAKE"
+  },
+  {
+    "username": "GrünesTal",
+    "email": "tal_gruen@smaragd.de",
+    "password": "securePass142",
+    "firstName": "Maximilian",
+    "lastName": "Vogt",
+    "language": "GERMAN",
+    "theme": "EMERALD"
+  },
+  {
+    "username": "NeonRider",
+    "email": "riderneon@fast.org",
+    "password": "securePass143",
+    "firstName": "Camille",
+    "lastName": "Gauthier",
+    "language": "FRENCH",
+    "theme": "SYNTHWAVE"
+  },
+  {
+    "username": "CRTMonitor",
+    "email": "monitorcrt@classic.es",
+    "password": "securePass144",
+    "firstName": "Diego",
+    "lastName": "Morales",
+    "language": "SPANISH",
+    "theme": "RETRO"
+  },
+  {
+    "username": "HackerPro",
+    "email": "prohacker@terminal.io",
+    "password": "securePass145",
+    "firstName": "Leo",
+    "lastName": "Barnes",
+    "language": "ENGLISH",
+    "theme": "CYBERPUNK"
+  },
+  {
+    "username": "Sweetheart",
+    "email": "heartsweet@geschenk.de",
+    "password": "securePass146",
+    "firstName": "Julia",
+    "lastName": "Hansen",
+    "language": "GERMAN",
+    "theme": "VALENTINE"
+  },
+  {
+    "username": "CemeteryGates",
+    "email": "gatescemetery@dead.fr",
+    "password": "securePass147",
+    "firstName": "Louis",
+    "lastName": "Rousseau",
+    "language": "FRENCH",
+    "theme": "HALLOWEEN"
+  },
+  {
+    "username": "Botanist",
+    "email": "botanist@planta.es",
+    "password": "securePass148",
+    "firstName": "Carla",
+    "lastName": "Muñoz",
+    "language": "SPANISH",
+    "theme": "GARDEN"
+  },
+  {
+    "username": "Immergrün",
+    "email": "immergruen@baum.de",
+    "password": "securePass149",
+    "firstName": "Willi",
+    "lastName": "Sperling",
+    "language": "GERMAN",
+    "theme": "FOREST"
+  },
+  {
+    "username": "KassettenDeck",
+    "email": "deckkassette@musik.de",
+    "password": "securePass150",
+    "firstName": "Sabrina",
+    "lastName": "Bauer",
+    "language": "GERMAN",
+    "theme": "LOFI"
+  },
+  {
+    "username": "UnicornSparkle",
+    "email": "sparkle_uni@pink.fr",
+    "password": "securePass151",
+    "firstName": "Clémence",
+    "lastName": "Leroy",
+    "language": "FRENCH",
+    "theme": "PASTEL"
+  },
+  {
+    "username": "PhoenixRising",
+    "email": "risingphoenix@fire.es",
+    "password": "securePass152",
+    "firstName": "Víctor",
+    "lastName": "Blanco",
+    "language": "SPANISH",
+    "theme": "FANTASY"
+  },
+  {
+    "username": "SketchArtist",
+    "email": "artistsketch@lines.io",
+    "password": "securePass153",
+    "firstName": "Mia",
+    "lastName": "Anderson",
+    "language": "ENGLISH",
+    "theme": "WIREFRAME"
+  },
+  {
+    "username": "Tintenfleck",
+    "email": "fleck_tinte@druck.de",
+    "password": "securePass154",
+    "firstName": "Moritz",
+    "lastName": "Groß",
+    "language": "GERMAN",
+    "theme": "BLACK"
+  },
+  {
+    "username": "BillionärsClub",
+    "email": "clubbillion@yacht.de",
+    "password": "securePass155",
+    "firstName": "Adrien",
+    "lastName": "Gärtner",
+    "language": "GERMAN",
+    "theme": "LUXURY"
+  },
+  {
+    "username": "RedWine",
+    "email": "winered@castillo.es",
+    "password": "securePass156",
+    "firstName": "Eva",
+    "lastName": "Castro",
+    "language": "SPANISH",
+    "theme": "DRACULA"
+  },
+  {
+    "username": "CyanSky",
+    "email": "skycyan@print.com",
+    "password": "securePass157",
+    "firstName": "Jayden",
+    "lastName": "Chen",
+    "language": "ENGLISH",
+    "theme": "CMYK"
+  },
+  {
+    "username": "WolkigeDämmerung",
+    "email": "daemmerung_w@grau.de",
+    "password": "securePass158",
+    "firstName": "David",
+    "lastName": "Wolf",
+    "language": "GERMAN",
+    "theme": "DIM"
+  },
+  {
+    "username": "LemonKiss",
+    "email": "kisslemon@tart.fr",
+    "password": "securePass159",
+    "firstName": "Chloé",
+    "lastName": "Dubois",
+    "language": "FRENCH",
+    "theme": "LEMONADE"
+  },
+  {
+    "username": "ToxicWaste",
+    "email": "wastetoxic@chem.es",
+    "password": "securePass160",
+    "firstName": "Pedro",
+    "lastName": "Fuentes",
+    "language": "SPANISH",
+    "theme": "ACID"
+  },
+  {
+    "username": "BaristaPro",
+    "email": "probarista@latte.de",
+    "password": "securePass161",
+    "firstName": "Sophia",
+    "lastName": "Wagner",
+    "language": "GERMAN",
+    "theme": "COFFEE"
+  },
+  {
+    "username": "GefrorenerNorden",
+    "email": "norden_gfror@kalt.de",
+    "password": "securePass162",
+    "firstName": "Tobias",
+    "lastName": "Fischer",
+    "language": "GERMAN",
+    "theme": "WINTER"
+  },
+  {
+    "username": "DimStreet",
+    "email": "streetdim@faible.org",
+    "password": "securePass163",
+    "firstName": "Victor",
+    "lastName": "Moreau",
+    "language": "FRENCH",
+    "theme": "DIM"
+  },
+  {
+    "username": "ArcticExplorer",
+    "email": "explorerarctic@snow.es",
+    "password": "securePass164",
+    "firstName": "Alejandra",
+    "lastName": "Cruz",
+    "language": "SPANISH",
+    "theme": "NORD"
+  },
+  {
+    "username": "SolarFlare",
+    "email": "flaresolar@bright.com",
+    "password": "securePass165",
+    "firstName": "Noah",
+    "lastName": "Roberts",
+    "language": "ENGLISH",
+    "theme": "LIGHT"
+  },
+  {
+    "username": "AbyssTaucher",
+    "email": "taucherabyss@tief.de",
+    "password": "securePass166",
+    "firstName": "Katrin",
+    "lastName": "Schmid",
+    "language": "GERMAN",
+    "theme": "DARK"
+  },
+  {
+    "username": "RainbowSwirl",
+    "email": "swirlrain@gateau.fr",
+    "password": "securePass167",
+    "firstName": "Axel",
+    "lastName": "Leroux",
+    "language": "FRENCH",
+    "theme": "CUPCAKE"
+  },
+  {
+    "username": "BeeKeeper",
+    "email": "keeperbee@miel.es",
+    "password": "securePass168",
+    "firstName": "Laura",
+    "lastName": "Gil",
+    "language": "SPANISH",
+    "theme": "BUMBLEBEE"
+  },
+  {
+    "username": "AzureSky",
+    "email": "skyazure@water.io",
+    "password": "securePass169",
+    "firstName": "Liam",
+    "lastName": "Smith",
+    "language": "ENGLISH",
+    "theme": "AQUA"
+  },
+  {
+    "username": "MysticForest",
+    "email": "forestmystic@elfen.de",
+    "password": "securePass170",
+    "firstName": "Lena",
+    "lastName": "Becker",
+    "language": "GERMAN",
+    "theme": "FANTASY"
+  },
+  {
+    "username": "GameBoyFan",
+    "email": "fangameboy@retro.fr",
+    "password": "securePass171",
+    "firstName": "Eva",
+    "lastName": "Petit",
+    "language": "FRENCH",
+    "theme": "RETRO"
+  },
+  {
+    "username": "FutureCity",
+    "email": "cityfuture@tech.es",
+    "password": "securePass172",
+    "firstName": "Ricardo",
+    "lastName": "García",
+    "language": "SPANISH",
+    "theme": "CYBERPUNK"
+  },
+  {
+    "username": "DunkleBurg",
+    "email": "burgdunkel@furcht.de",
+    "password": "securePass173",
+    "firstName": "Olaf",
+    "lastName": "Dietrich",
+    "language": "GERMAN",
+    "theme": "DRACULA"
+  },
+  {
+    "username": "OffsetDruck",
+    "email": "druckoffset@farben.net",
+    "password": "securePass174",
+    "firstName": "Philipp",
+    "lastName": "Wagner",
+    "language": "GERMAN",
+    "theme": "CMYK"
+  },
+  {
+    "username": "OceanSunset",
+    "email": "sunsetocean@coucher.fr",
+    "password": "securePass175",
+    "firstName": "Juliette",
+    "lastName": "Martin",
+    "language": "FRENCH",
+    "theme": "SUNSET"
+  },
+  {
+    "username": "IglooLife",
+    "email": "lifeigloo@cold.es",
+    "password": "securePass176",
+    "firstName": "Jorge",
+    "lastName": "Romero",
+    "language": "SPANISH",
+    "theme": "WINTER"
+  },
+  {
+    "username": "Minzjuwel",
+    "email": "juwelminz@grün.de",
+    "password": "securePass177",
+    "firstName": "Zack",
+    "lastName": "Thurner",
+    "language": "GERMAN",
+    "theme": "EMERALD"
+  },
+  {
+    "username": "RegenwetterBeats",
+    "email": "beatsregen@chill.de",
+    "password": "securePass178",
+    "firstName": "Elisa",
+    "lastName": "Koch",
+    "language": "GERMAN",
+    "theme": "LOFI"
+  },
+  {
+    "username": "CloudNine",
+    "email": "ninecloud@doux.fr",
+    "password": "securePass179",
+    "firstName": "Simon",
+    "lastName": "Morel",
+    "language": "FRENCH",
+    "theme": "PASTEL"
+  },
+  {
+    "username": "EmptyFrame",
+    "email": "frameempty@dibujo.es",
+    "password": "securePass180",
+    "firstName": "Andrés",
+    "lastName": "Vidal",
+    "language": "SPANISH",
+    "theme": "WIREFRAME"
+  },
+  {
+    "username": "GrünesLabyrinth",
+    "email": "labyrinth_g@pflanze.de",
+    "password": "securePass181",
+    "firstName": "Chloe",
+    "lastName": "Wegner",
+    "language": "GERMAN",
+    "theme": "FOREST"
+  },
+  {
+    "username": "GrauerAnzug",
+    "email": "anzuggrau@buero.net",
+    "password": "securePass182",
+    "firstName": "Markus",
+    "lastName": "Schmidt",
+    "language": "GERMAN",
+    "theme": "CORPORATE"
+  },
+  {
+    "username": "PitchBlack",
+    "email": "blackpitch@nuit.fr",
+    "password": "securePass183",
+    "firstName": "Marie",
+    "lastName": "Roux",
+    "language": "FRENCH",
+    "theme": "BLACK"
+  },
+  {
+    "username": "PlatinumCard",
+    "email": "cardplatinum@bank.es",
+    "password": "securePass184",
+    "firstName": "Ismael",
+    "lastName": "Herrera",
+    "language": "SPANISH",
+    "theme": "LUXURY"
+  },
+  {
+    "username": "SonnenBrand",
+    "email": "brandsonne@säure.de",
+    "password": "securePass185",
+    "firstName": "Felix",
+    "lastName": "König",
+    "language": "GERMAN",
+    "theme": "ACID"
+  },
+  {
+    "username": "ZitronenZest",
+    "email": "zestzitrone@saft.de",
+    "password": "securePass186",
+    "firstName": "Sina",
+    "lastName": "Huber",
+    "language": "GERMAN",
+    "theme": "LEMONADE"
+  },
+  {
+    "username": "NightSky",
+    "email": "skynight@sombre.fr",
+    "password": "securePass187",
+    "firstName": "Léa",
+    "lastName": "Garnier",
+    "language": "FRENCH",
+    "theme": "NIGHT"
+  },
+  {
+    "username": "FadedLight",
+    "email": "lightfaded@tenue.es",
+    "password": "securePass188",
+    "firstName": "Pablo",
+    "lastName": "Soto",
+    "language": "SPANISH",
+    "theme": "DIM"
+  },
+  {
+    "username": "EspressoRush",
+    "email": "rushespresso@boost.com",
+    "password": "securePass189",
+    "firstName": "Grace",
+    "lastName": "Taylor",
+    "language": "ENGLISH",
+    "theme": "COFFEE"
+  },
+  {
+    "username": "WeißerWald",
+    "email": "wald_weiss@frost.de",
+    "password": "securePass190",
+    "firstName": "Lara",
+    "lastName": "Müller",
+    "language": "GERMAN",
+    "theme": "NORD"
+  },
+  {
+    "username": "YellowBrick",
+    "email": "brickyellow@road.fr",
+    "password": "securePass191",
+    "firstName": "Tom",
+    "lastName": "Dubois",
+    "language": "FRENCH",
+    "theme": "LIGHT"
+  },
+  {
+    "username": "RedSun",
+    "email": "sunred@calor.es",
+    "password": "securePass192",
+    "firstName": "Lucía",
+    "lastName": "González",
+    "language": "SPANISH",
+    "theme": "SUNSET"
+  },
+  {
+    "username": "GruselNebel",
+    "email": "nebel_grusel@okt.de",
+    "password": "securePass193",
+    "firstName": "Daniel",
+    "lastName": "Wiesel",
+    "language": "GERMAN",
+    "theme": "HALLOWEEN"
+  },
+  {
+    "username": "HeckenLabyrinth",
+    "email": "labyrinth_h@hecke.de",
+    "password": "securePass194",
+    "firstName": "Hannah",
+    "lastName": "Kruse",
+    "language": "GERMAN",
+    "theme": "GARDEN"
+  },
+  {
+    "username": "LoveLetter",
+    "email": "letterlove@cœur.org",
+    "password": "securePass195",
+    "firstName": "Antoine",
+    "lastName": "Lefevre",
+    "language": "FRENCH",
+    "theme": "VALENTINE"
+  },
+  {
+    "username": "OceanWave",
+    "email": "waveocean@water.es",
+    "password": "securePass196",
+    "firstName": "Andrea",
+    "lastName": "Salas",
+    "language": "SPANISH",
+    "theme": "AQUA"
+  },
+  {
+    "username": "BusinessTraveler",
+    "email": "travelerbiz@flight.com",
+    "password": "securePass197",
+    "firstName": "Jack",
+    "lastName": "Miller",
+    "language": "ENGLISH",
+    "theme": "BUSINESS"
+  },
+  {
+    "username": "DarkAcademiaPro",
+    "email": "academiadark@wissen.net",
+    "password": "securePass198",
+    "firstName": "Paul",
+    "lastName": "Hartmann",
+    "language": "GERMAN",
+    "theme": "DARK"
+  },
+  {
+    "username": "RetroFuture",
+    "email": "futureretro@80s.fr",
+    "password": "securePass199",
+    "firstName": "Manon",
+    "lastName": "Simon",
+    "language": "FRENCH",
+    "theme": "SYNTHWAVE"
+  },
+  {
+    "username": "SketchPad",
+    "email": "padsketch@linea.es",
+    "password": "securePass200",
+    "firstName": "Javier",
+    "lastName": "Ortega",
+    "language": "SPANISH",
+    "theme": "WIREFRAME"
+  },
+  {
+    "username": "DigitalOutlaw",
+    "email": "outlaw_d@matrix.de",
+    "password": "securePass201",
+    "firstName": "Kai",
+    "lastName": "Wagner",
+    "language": "GERMAN",
+    "theme": "CYBERPUNK"
+  },
+  {
+    "username": "VampirLord",
+    "email": "lord_vampir@blut.de",
+    "password": "securePass202",
+    "firstName": "Moritz",
+    "lastName": "Steiner",
+    "language": "GERMAN",
+    "theme": "DRACULA"
+  },
+  {
+    "username": "EntspannungsZone",
+    "email": "zone_entspannt@ruhe.de",
+    "password": "securePass203",
+    "firstName": "Anna",
+    "lastName": "Schulz",
+    "language": "GERMAN",
+    "theme": "LOFI"
+  },
+  {
+    "username": "TiefesBlau",
+    "email": "blau_tief@wasser.de",
+    "password": "securePass204",
+    "firstName": "Elias",
+    "lastName": "Franke",
+    "language": "GERMAN",
+    "theme": "AQUA"
+  },
+  {
+    "username": "ArktisSturm",
+    "email": "sturm_arktis@kalt.de",
+    "password": "securePass205",
+    "firstName": "Johanna",
+    "lastName": "Keller",
+    "language": "GERMAN",
+    "theme": "NORD"
+  },
+  {
+    "username": "MoosBoden",
+    "email": "boden_moos@wald.de",
+    "password": "securePass206",
+    "firstName": "Tim",
+    "lastName": "Vogel",
+    "language": "GERMAN",
+    "theme": "FOREST"
+  },
+  {
+    "username": "GameMaster",
+    "email": "master_game@console.io",
+    "password": "securePass207",
+    "firstName": "Sam",
+    "lastName": "Wilson",
+    "language": "ENGLISH",
+    "theme": "RETRO"
+  },
+  {
+    "username": "CrimsonSunset",
+    "email": "sunsetcrimson@red.net",
+    "password": "securePass208",
+    "firstName": "Jade",
+    "lastName": "Lee",
+    "language": "ENGLISH",
+    "theme": "SUNSET"
+  },
+  {
+    "username": "Sternennacht",
+    "email": "nacht_sterne@himmel.de",
+    "password": "securePass209",
+    "firstName": "Lia",
+    "lastName": "Müller",
+    "language": "GERMAN",
+    "theme": "NIGHT"
+  },
+  {
+    "username": "SummSpatz",
+    "email": "spatzsumm@blume.de",
+    "password": "securePass210",
+    "firstName": "Jens",
+    "lastName": "Glaser",
+    "language": "GERMAN",
+    "theme": "BUMBLEBEE"
+  },
+  {
+    "username": "ClearDay",
+    "email": "dayclear@sun.com",
+    "password": "securePass211",
+    "firstName": "Ethan",
+    "lastName": "White",
+    "language": "ENGLISH",
+    "theme": "LIGHT"
+  },
+  {
+    "username": "AutumnMist",
+    "email": "mistautumn@cool.net",
+    "password": "securePass212",
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "language": "ENGLISH",
+    "theme": "AUTUMN"
+  },
+  {
+    "username": "MagischeRune",
+    "email": "rune_magisch@zauber.de",
+    "password": "securePass213",
+    "firstName": "Sofia",
+    "lastName": "Beyer",
+    "language": "GERMAN",
+    "theme": "FANTASY"
+  },
+  {
+    "username": "Eispalast",
+    "email": "palast_eis@schnee.de",
+    "password": "securePass214",
+    "firstName": "Hannes",
+    "lastName": "Schubert",
+    "language": "GERMAN",
+    "theme": "WINTER"
+  },
+  {
+    "username": "PowerSuit",
+    "email": "suit_power@chief.io",
+    "password": "securePass215",
+    "firstName": "Alex",
+    "lastName": "Cooper",
+    "language": "ENGLISH",
+    "theme": "CORPORATE"
+  },
+  {
+    "username": "GoldenVault",
+    "email": "vaultgolden@money.com",
+    "password": "securePass216",
+    "firstName": "Chloe",
+    "lastName": "Davis",
+    "language": "ENGLISH",
+    "theme": "LUXURY"
+  },
+  {
+    "username": "HelleSäure",
+    "email": "säure_hell@gift.de",
+    "password": "securePass217",
+    "firstName": "Leo",
+    "lastName": "Schneider",
+    "language": "GERMAN",
+    "theme": "ACID"
+  },
+  {
+    "username": "Zuckerguss",
+    "email": "guss_zucker@kuchen.de",
+    "password": "securePass218",
+    "firstName": "Theresa",
+    "lastName": "Koch",
+    "language": "GERMAN",
+    "theme": "CUPCAKE"
+  },
+  {
+    "username": "MintDiamond",
+    "email": "diamond_m@schmuck.de",
+    "password": "securePass219",
+    "firstName": "Felix",
+    "lastName": "Jäger",
+    "language": "GERMAN",
+    "theme": "EMERALD"
+  },
+  {
+    "username": "RosaTraum",
+    "email": "traum_rosa@wolke.de",
+    "password": "securePass220",
+    "firstName": "Emilia",
+    "lastName": "Bauer",
+    "language": "GERMAN",
+    "theme": "PASTEL"
+  },
+  {
+    "username": "Tiefschwarz",
+    "email": "schwarz_tief@nacht.de",
+    "password": "securePass221",
+    "firstName": "Max",
+    "lastName": "Klein",
+    "language": "GERMAN",
+    "theme": "DARK"
+  },
+  {
+    "username": "Vierfarbdruck",
+    "email": "druck_vier@tinte.de",
+    "password": "securePass222",
+    "firstName": "Lisa",
+    "lastName": "Hansen",
+    "language": "GERMAN",
+    "theme": "CMYK"
+  },
+  {
+    "username": "SunshineLemon",
+    "email": "lemon_sun@sour.io",
+    "password": "securePass223",
+    "firstName": "Anya",
+    "lastName": "Sharma",
+    "language": "ENGLISH",
+    "theme": "LEMONADE"
+  },
+  {
+    "username": "MinimalDesign",
+    "email": "design_mini@sketch.io",
+    "password": "securePass224",
+    "firstName": "Ben",
+    "lastName": "Green",
+    "language": "ENGLISH",
+    "theme": "WIREFRAME"
+  },
+  {
+    "username": "Geisterjäger",
+    "email": "jäger_geist@spuk.de",
+    "password": "securePass225",
+    "firstName": "David",
+    "lastName": "Schmidt",
+    "language": "GERMAN",
+    "theme": "HALLOWEEN"
+  },
+  {
+    "username": "DoppelEspresso",
+    "email": "espresso_d@wach.de",
+    "password": "securePass226",
+    "firstName": "Marie",
+    "lastName": "Fischer",
+    "language": "GERMAN",
+    "theme": "COFFEE"
+  },
+  {
+    "username": "RedVelvet",
+    "email": "velvet_red@sweet.io",
+    "password": "securePass227",
+    "firstName": "Liam",
+    "lastName": "Perez",
+    "language": "ENGLISH",
+    "theme": "VALENTINE"
+  },
+  {
+    "username": "NightShadow",
+    "email": "shadow_night@dark.io",
+    "password": "securePass228",
+    "firstName": "Sophia",
+    "lastName": "Evans",
+    "language": "ENGLISH",
+    "theme": "BLACK"
+  },
+  {
+    "username": "Kräutergarten",
+    "email": "garten_kraut@frisch.de",
+    "password": "securePass229",
+    "firstName": "Luca",
+    "lastName": "Huber",
+    "language": "GERMAN",
+    "theme": "GARDEN"
+  },
+  {
+    "username": "RetroSynthese",
+    "email": "synthese_r@wave.de",
+    "password": "securePass230",
+    "firstName": "Lena",
+    "lastName": "Meier",
+    "language": "GERMAN",
+    "theme": "SYNTHWAVE"
+  },
+  {
+    "username": "Dimmlicht",
+    "email": "licht_dimm@grau.de",
+    "password": "securePass231",
+    "firstName": "Sebastian",
+    "lastName": "Koch",
+    "language": "GERMAN",
+    "theme": "DIM"
+  },
+  {
+    "username": "BusinessTraveler",
+    "email": "travelerbiz@flight.com",
+    "password": "securePass232",
+    "firstName": "Noah",
+    "lastName": "Jensen",
+    "language": "ENGLISH",
+    "theme": "CORPORATE"
+  },
+  {
+    "username": "WhiteAngel",
+    "email": "angel_white@heaven.io",
+    "password": "securePass233",
+    "firstName": "Ella",
+    "lastName": "Brown",
+    "language": "ENGLISH",
+    "theme": "LIGHT"
+  },
+  {
+    "username": "Schattenriss",
+    "email": "riss_schatten@tiefe.de",
+    "password": "securePass234",
+    "firstName": "Jana",
+    "lastName": "Richter",
+    "language": "GERMAN",
+    "theme": "DARK"
+  },
+  {
+    "username": "FantasyQuest",
+    "email": "questfantasy@hero.io",
+    "password": "securePass235",
+    "firstName": "Chloe",
+    "lastName": "Scott",
+    "language": "ENGLISH",
+    "theme": "FANTASY"
+  },
+  {
+    "username": "SeetangGarten",
+    "email": "garten_tang@ozean.de",
+    "password": "securePass236",
+    "firstName": "Max",
+    "lastName": "Werner",
+    "language": "GERMAN",
+    "theme": "AQUA"
+  },
+  {
+    "username": "IceClimber",
+    "email": "climber_ice@peak.io",
+    "password": "securePass237",
+    "firstName": "Ben",
+    "lastName": "Harris",
+    "language": "ENGLISH",
+    "theme": "WINTER"
+  },
+  {
+    "username": "RoterAhorn",
+    "email": "ahorn_rot@baum.de",
+    "password": "securePass238",
+    "firstName": "Laura",
+    "lastName": "Schmid",
+    "language": "GERMAN",
+    "theme": "AUTUMN"
+  },
+  {
+    "username": "HonigTopf",
+    "email": "topf_honig@bienen.de",
+    "password": "securePass239",
+    "firstName": "Paul",
+    "lastName": "Huber",
+    "language": "GERMAN",
+    "theme": "BUMBLEBEE"
+  },
+  {
+    "username": "DunkelSeher",
+    "email": "seher_dunkel@grab.de",
+    "password": "securePass240",
+    "firstName": "Sophie",
+    "lastName": "Vogt",
+    "language": "GERMAN",
+    "theme": "DRACULA"
+  },
+  {
+    "username": "TortenStück",
+    "email": "stück_torte@creme.de",
+    "password": "securePass241",
+    "firstName": "Tobias",
+    "lastName": "Müller",
+    "language": "GERMAN",
+    "theme": "CUPCAKE"
+  },
+  {
+    "username": "Juwelier",
+    "email": "juwelier@edel.de",
+    "password": "securePass242",
+    "firstName": "Anna",
+    "lastName": "Brandt",
+    "language": "GERMAN",
+    "theme": "EMERALD"
+  },
+  {
+    "username": "FutureRacer",
+    "email": "racer_future@neon.io",
+    "password": "securePass243",
+    "firstName": "Jake",
+    "lastName": "Walker",
+    "language": "ENGLISH",
+    "theme": "SYNTHWAVE"
+  },
+  {
+    "username": "PixelArt",
+    "email": "art_pixel@game.io",
+    "password": "securePass244",
+    "firstName": "Olivia",
+    "lastName": "Clark",
+    "language": "ENGLISH",
+    "theme": "RETRO"
+  },
+  {
+    "username": "CyberGhost",
+    "email": "ghost_cyber@net.de",
+    "password": "securePass245",
+    "firstName": "Lukas",
+    "lastName": "Hansen",
+    "language": "GERMAN",
+    "theme": "CYBERPUNK"
+  },
+  {
+    "username": "Heartbeat",
+    "email": "beat_heart@pulse.io",
+    "password": "securePass246",
+    "firstName": "Mia",
+    "lastName": "Roberts",
+    "language": "ENGLISH",
+    "theme": "VALENTINE"
+  },
+  {
+    "username": "Graveyard",
+    "email": "yard_grave@moss.io",
+    "password": "securePass247",
+    "firstName": "Tom",
+    "lastName": "Brown",
+    "language": "ENGLISH",
+    "theme": "HALLOWEEN"
+  },
+  {
+    "username": "MeadowWalker",
+    "email": "walker_m@field.io",
+    "password": "securePass248",
+    "firstName": "Ella",
+    "lastName": "Davis",
+    "language": "ENGLISH",
+    "theme": "GARDEN"
+  },
+  {
+    "username": "DeepWoods",
+    "email": "woods_deep@pine.io",
+    "password": "securePass249",
+    "firstName": "Ryan",
+    "lastName": "Scott",
+    "language": "ENGLISH",
+    "theme": "FOREST"
+  },
+  {
+    "username": "AmbientSound",
+    "email": "sound_ambient@chill.io",
+    "password": "securePass250",
+    "firstName": "Ava",
+    "lastName": "Wilson",
+    "language": "ENGLISH",
+    "theme": "LOFI"
   }
 ]

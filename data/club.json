@@ -1,0 +1,212 @@
+[
+  {
+    "name": "OTH Schachclub",
+    "description": "Erster OTH Schachclub",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Coding & AI Society",
+    "description": "Treffpunkt für Programmierbegeisterte und KI-Interessierte",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Gründergeist Regensburg",
+    "description": "Studenten-Netzwerk für Start-ups und Unternehmertum",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Nachhaltigkeits-Initiative",
+    "description": "Projekte und Diskussionen rund um Ökologie und Klimaschutz",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Uni Debattierclub",
+    "description": "Training und Wettbewerbe im freien Reden und Argumentieren",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Kreatives Schreiben & Poetry",
+    "description": "Gemeinsames Schreiben, Feedback und Lesungen",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Campus Filmwerkstatt",
+    "description": "Erstellung von Kurzfilmen, Skripten und Film-Diskussionen",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Rathaus & Politik Forum",
+    "description": "Diskussion aktueller kommunaler und nationaler Politik",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Mountainbike & Trail Regensburg",
+    "description": "Ausflüge und Techniktraining in der Region",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Sprachentreff International",
+    "description": "Konversation in verschiedenen Sprachen (Tandem-Partner)",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Digital Art & Design Studio",
+    "description": "Workshops und Projekte zu digitaler Kunst und Grafikdesign",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Pen & Paper Rollenspiele",
+    "description": "Organisation von D&D, DSA und anderen Rollenspielrunden",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Studienhilfe & Tutorium",
+    "description": "Organisation von Lerngruppen und Nachhilfe unter Studierenden",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Kultureller Kochclub",
+    "description": "Gemeinsames Kochen und Genießen von Gerichten aus aller Welt",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Yoga & Achtsamkeit am Campus",
+    "description": "Wöchentliche Yoga- und Meditationssitzungen",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Robotics Challenge Team",
+    "description": "Entwicklung und Bau von Robotern für studentische Wettbewerbe",
+    "accessLevel": "INVITE_ONLY",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "E-Sports Team Regensburg",
+    "description": "Organisation und Training für Gaming-Wettbewerbe",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Science Slam Uni/OTH",
+    "description": "Training und Organisation von wissenschaftlichen Vortragsevents",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Musical & Theater Workshop",
+    "description": "Erarbeitung von kleinen Theaterstücken und Musicals",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Investment & Finanzen Club",
+    "description": "Diskussion über Aktien, Kryptowährungen und persönliche Finanzen",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Volleyball Freizeitliga",
+    "description": "Regelmäßiges Training und Spiele für Hobby-Volleyballer",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Fotografie & Bildbearbeitung",
+    "description": "Foto-Exkursionen in Regensburg und Workshops zur Postproduktion",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Campus Chor",
+    "description": "Regelmäßige Proben und Auftritte (Pop, Klassik, A-cappella)",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Medien & PR Team OTH",
+    "description": "Unterstützung der Hochschul-PR und Social Media-Betreuung",
+    "accessLevel": "INVITE_ONLY",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Literaturkreis Uni",
+    "description": "Gemeinsames Lesen und Besprechen von Romanen und Sachbüchern",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Escape Room & Rätselgruppe",
+    "description": "Gemeinsames Lösen von Rätseln und Organisieren von Events",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Elektrotechnik Hobby-Ecke",
+    "description": "Löten, Basteln und Projekte rund um Elektronik und Mikrocontroller",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Interkultureller Austauschclub",
+    "description": "Förderung des Austauschs zwischen deutschen und internationalen Studenten",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Umweltputz-Aktion Regensburg",
+    "description": "Regelmäßige Clean-up-Aktionen in der Stadt und am Campus",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Historische Brettspiele & Strategie",
+    "description": "Spielen und Diskutieren komplexer Brettspiele (z.B. Go, Risiko, historische Simulationen)",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Jazz & Blues Session",
+    "description": "Treffpunkt für Musiker und Liebhaber, die improvisierte Musik spielen oder hören wollen.",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Bauingenieurwesen Exkursionsteam",
+    "description": "Organisation von Besichtigungen lokaler Baustellen, Brücken und Infrastrukturprojekte.",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Ruderclub Donau Campus",
+    "description": "Regelmäßiges Rudertraining und Ausflüge auf der Donau für Anfänger und Fortgeschrittene.",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Medizinethik Diskussionsforum",
+    "description": "Interdisziplinäre Diskussionen über aktuelle ethische Fragen in der Medizin und Pflege.",
+    "accessLevel": "OPEN",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  },
+  {
+    "name": "Virtual & Augmented Reality Lab",
+    "description": "Entwicklung von Prototypen und Workshops zu VR- und AR-Technologien (Hardware & Software).",
+    "accessLevel": "INVITE_ONLY",
+    "imageUrl": "https://res.cloudinary.com/dz90z0pvg/image/upload/v1765107240/image_zyvbte.png"
+  }
+]
