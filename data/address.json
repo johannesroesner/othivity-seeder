@@ -1624,13 +1624,6 @@
         "zipCode": "93049"
     },
     {
-        "street": "Hopfengartenweg",
-        "min": 15,
-        "max": 2,
-        "city": "Regensburg",
-        "zipCode": "93057"
-    },
-    {
         "street": "Hüllgartenweg",
         "min": 1,
         "max": 28,

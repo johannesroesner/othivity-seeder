@@ -6,6 +6,7 @@ import (
 	"log"
 	"math/rand"
 	"os"
+	"time"
 )
 
 type regensburgAddresses struct {
@@ -55,5 +56,6 @@ func Generate() Address {
 }
 
 func randomInt(min int, max int) int {
-	return rand.Intn(max-min+1) + min
+	time.Sleep(100 * time.Nanosecond)
+	return rand.Intn(max-min) + min
 }
