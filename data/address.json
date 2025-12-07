@@ -2373,13 +2373,6 @@
         "zipCode": "93059"
     },
     {
-        "street": "Röhrlgässel",
-        "min": 5,
-        "max": 4,
-        "city": "Regensburg",
-        "zipCode": "93047"
-    },
-    {
         "street": "Rosenweg",
         "min": 1,
         "max": 26,

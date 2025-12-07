@@ -21,7 +21,7 @@ type activity struct {
 	Date        string   `json:"date"`
 	Language    string   `json:"language"`
 	GroupSize   int      `json:"groupSize"`
-	OrganizerId string   `json:"organizerId"`
+	OrganizerId *string  `json:"organizerId,omitempty"`
 	ImageUrl    string   `json:"imageUrl"`
 	Tags        []string `json:"tags"`
 	StartedBy   string   `json:"startedBy"`
@@ -35,6 +35,8 @@ type activity struct {
 type responseBody struct {
 	Id string `json:"id"`
 }
+
+const layout = "2006-01-02T15:04:05"
 
 var Ids []string
 
@@ -63,10 +65,11 @@ func Seed(client http.Client, jwtToken string, targetUrl string) {
 		activity.City = generatedAddress.City
 		activity.PostalCode = generatedAddress.PostalCode
 
-		activity.Date = time.Now().AddDate(0, 0, randomInt(2, 60)).Format(time.RFC3339)
+		activity.Date = time.Now().AddDate(0, 0, randomInt(2, 60)).Format(layout)
 
 		if randomInt(0, 10) > 8 {
-			activity.OrganizerId = club.Ids[rand.Intn(len(club.Ids))]
+			id := club.Ids[rand.Intn(len(club.Ids))]
+			activity.OrganizerId = &id
 		}
 
 		groupSize := randomInt(5, 12)
