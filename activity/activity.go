@@ -128,7 +128,7 @@ func getStarterAndParticipants(groupSize int) (string, []string) {
 	startedBy = picked
 	takePart = append(takePart, picked)
 
-	takePartCount := randomInt(2, groupSize-1)
+	takePartCount := randomInt(2, groupSize-2)
 	for i := 0; i < takePartCount; i++ {
 		picked := profile.Ids[rand.Intn(len(profile.Ids))]
 		if startedBy != picked && !contains(takePart, picked) {
